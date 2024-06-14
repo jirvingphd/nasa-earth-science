@@ -1,0 +1,1 @@
+Beckley, B.; Yang, X.; Zelensky, N.P.; Holmes, S.A.;Lemoine, F.G.; Ray, R.D.; Mitchum, G.T.; Desai, S.; Brown, S.T.. 2021. Global Mean Sea Level Trend from Integrated Multi-Mission Ocean Altimeters TOPEX/Poseidon, Jason-1, OSTM/Jason-2, and Jason-3 Version 5.1. Ver. 5.1. PO.DAAC, CA, USA. Dataset accessed 2024-06-14 at https://doi.org/10.5067/GMSLM-TJ151

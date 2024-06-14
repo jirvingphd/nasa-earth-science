@@ -1,0 +1,15 @@
+Data Provider,Short Name,Version,Entry Title,Processing Level,Platform,Start Time,End Time
+ORNL_CLOUD,Coastal_US_Elevation_Data_1844,1,"Relative Tidal Marsh Elevation Maps with Uncertainty for Conterminous USA, 2010",3,MODELS,1983-01-01T00:00:00.000Z,2010-12-31T23:59:59.000Z
+ORNL_CLOUD,GCRW_DEM_2016_1793,1,"Digital Elevation Models for the Global Change Research Wetland, Maryland, USA, 2016",3,"Airplane, FIELD SURVEYS, COASTAL STATIONS, MODELS",2016-06-22T00:00:00.000Z,2016-08-15T23:59:59.000Z
+ORNL_CLOUD,Uncertainty_US_Coastal_GHG_1650,1,"Coastal Wetland Elevation and Carbon Flux Inventory with Uncertainty, USA, 2006-2011",3,MODELS,2006-01-01T00:00:00.000Z,2011-12-31T23:59:59.000Z
+SEDAC,CIESIN_SEDAC_WACVM_SUBSETACE2,1.00,West Africa Coastal Vulnerability Mapping: Subset of High and Low Resolution Altimeter Corrected Elevations 2 (ACE2),3,"OV-105, ERS-1, ERS-2",1994-01-01T00:00:00.000Z,2005-12-31T00:00:00.000Z
+SEDAC,CIESIN_SEDAC_LECZ_URPLAEV2,2.00,"Low Elevation Coastal Zone (LECZ) Urban-Rural Population and Land Area Estimates, Version 2",3,MODELS,1990-01-01T00:00:00.000Z,2100-01-01T00:00:00.000Z
+ORNL_CLOUD,DeltaX_RTK_Elevation_2071,1,"Delta-X: Real-Time Kinematic Elevation Measurements for Coastal Wetlands, LA, 2021",3,FIELD SURVEYS,2021-03-21T00:00:00.000Z,2021-04-21T23:59:59.000Z
+SEDAC,CIESIN_SEDAC_LECZ_URPLAEV3,3.00,"Low Elevation Coastal Zone (LECZ) Urban-Rural Population and Land Area Estimates, Version 3",3,MODELS,1990-01-01T00:00:00.000Z,2015-01-01T00:00:00.000Z
+SEDAC,CIESIN_SEDAC_LECZ_URPEV1,1.00,"Low Elevation Coastal Zone (LECZ) Urban-Rural Population Estimates, Global Rural-Urban Mapping Project (GRUMP), Alpha Version",3,MODELS,1990-01-01T00:00:00.000Z,2000-01-01T00:00:00.000Z
+USGS_LTA,srtm_water_body,Not provided,SRTM Water Body Data,Not provided,Not provided,1970-01-01T00:00:00.000Z,
+ORNL_CLOUD,DeltaX_DEM_MRD_LA_2181,1,"Delta-X: Digital Elevation Model, MRD, LA, USA, 2021",3,FIELD SURVEYS,2012-01-01T00:00:00.000Z,2021-12-31T23:59:59.000Z
+ORNL_CLOUD,DeltaX_L2_AirSWOT_WaterElev_V2_2128,2,"Delta-X: AirSWOT L2 Geocoded Water Surface Elevation, MRD, Louisiana, 2021, Version 2",3,"King Air, B-200",2021-03-26T00:00:00.000Z,2021-09-12T23:59:59.000Z
+ORNL_CLOUD,DeltaX_L3_AirSWOT_WaterElev_2133,1,"Delta-X: AirSWOT L3 Water Surface Elevations, MRD, Louisiana, 2021",3,B-200,2021-03-26T16:39:36.000Z,2021-09-12T04:36:44.000Z
+ORNL_CLOUD,PreDeltaX_L2_AirSWOT_1818,1,"Pre-Delta-X: L2 AirSWOT Water Surface Elevations, Atchafalaya Basin, LA, USA, 2016",2,King Air,2015-05-08T11:02:30.000Z,2015-05-11T08:47:18.000Z
+SEDAC,CIESIN_SEDAC_WACVM_GSSPEPP,1.00,West Africa Coastal Vulnerability Mapping: Gridded Subset of Sub-national Poverty and Extreme Poverty Prevalence,3,MODELS,2005-01-01T00:00:00.000Z,2005-12-31T00:00:00.000Z

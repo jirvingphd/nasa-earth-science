@@ -1,0 +1,204 @@
+Data Provider,Short Name,Version,Entry Title,Processing Level,Platform,Start Time,End Time
+"ASF","SENTINEL-1A_SLC","1","SENTINEL-1A_SLC","Not provided","SENTINEL-1A","2014-04-03T00:00:00.000Z",
+"ASF","SENTINEL-1B_SLC","1","SENTINEL-1B_SLC","Not provided","SENTINEL-1B","2016-04-25T00:00:00.000Z","2021-12-24T00:00:00.000Z"
+"ASF","SENTINEL-1A_DP_GRD_HIGH","1","SENTINEL-1A_DUAL_POL_GRD_HIGH_RES","Not provided","SENTINEL-1A","2014-04-03T00:00:00.000Z",
+"ASF","ALOS_PSR_RTC_HIGH","1","ALOS_PALSAR_RTC_HIGH_RES","2","ALOS","2006-03-23T16:10:55.000Z","2011-04-22T20:23:36.000Z"
+"POCLOUD","SWOT_L2_HR_RiverSP_2.0","2.0","SWOT Level 2 River Single-Pass Vector Data Product, Version 2.0","2","SWOT","2022-12-16T00:00:00.000Z",
+"GES_DISC","M2T1NXAER","5.12.4","MERRA-2 tavg1_2d_aer_Nx: 2d,1-Hourly,Time-averaged,Single-Level,Assimilation,Aerosol Diagnostics 0.625 x 0.5 degree V5.12.4 (M2T1NXAER) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2I1NXLFO","5.12.4","MERRA-2 inst1_2d_lfo_Nx: 2d,1-Hourly,Instantaneous,Single-Level,Assimilation,Land Surface Forcings 0.625 x 0.5 degree V5.12.4 (M2I1NXLFO) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"ASF","SENTINEL-1_INTERFEROGRAMS","1","Sentinel-1 Interferograms","2","SENTINEL-1A, SENTINEL-1B","2014-06-15T03:44:43.000Z",
+"GES_DISC","M2T1NXSLV","5.12.4","MERRA-2 tavg1_2d_slv_Nx: 2d,1-Hourly,Time-Averaged,Single-Level,Assimilation,Single-Level Diagnostics 0.625 x 0.5 degree V5.12.4 (M2T1NXSLV) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2T1NXLND","5.12.4","MERRA-2 tavg1_2d_lnd_Nx: 2d,1-Hourly,Time-Averaged,Single-Level,Assimilation,Land Surface Diagnostics 0.625 x 0.5 degree V5.12.4 (M2T1NXLND) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"ASF","ALOS_PSR_L2.2","1","ALOS_PALSAR_LEVEL2.2","2","ALOS","2006-01-23T00:00:00.000Z","2011-05-23T00:00:00.000Z"
+"GES_DISC","M2I1NXINT","5.12.4","MERRA-2 inst1_2d_int_Nx: 2d,1-Hourly,Instantaneous,Single-Level,Assimilation,Vertically Integrated Diagnostics 0.625 x 0.5 degree V5.12.4 (M2I1NXINT) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2I3NXGAS","5.12.4","MERRA-2 inst3_2d_gas_Nx: 2d,3-Hourly,Instantaneous,Single-Level,Assimilation,Aerosol Optical Depth Analysis 0.625 x 0.5 degree V5.12.4 (M2I3NXGAS) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2SDNXSLV","5.12.4","MERRA-2 statD_2d_slv_Nx: 2d,Daily,Aggregated Statistics,Single-Level,Assimilation,Single-Level Diagnostics 0.625 x 0.5 degree V5.12.4 (M2SDNXSLV) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2T3NPTRB","5.12.4","MERRA-2 tavg3_3d_trb_Np: 3d,3-Hourly,Time-Averaged,Pressure-Level,Assimilation,Turbulence Diagnostics 0.625 x 0.5 degree V5.12.4 (M2T3NPTRB) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2I3NVASM","5.12.4","MERRA-2 inst3_3d_asm_Nv: 3d,3-Hourly,Instantaneous,Model-Level,Assimilation,Assimilated Meteorological Fields 0.625 x 0.5 degree V5.12.4 (M2I3NVASM) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2T3NVASM","5.12.4","MERRA-2 tavg3_3d_asm_Nv: 3d,3-Hourly,Time-Averaged,Model-Level,Assimilation,Assimilated Meteorological Fields 0.625 x 0.5 degree V5.12.4 (M2T3NVASM) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2T3NPQDT","5.12.4","MERRA-2 tavg3_3d_qdt_Np: 3d,3-Hourly,Time-Averaged,Pressure-Level,Assimilation,Moist Tendencies 0.625 x 0.5 degree V5.12.4 (M2T3NPQDT) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"ASF","SENTINEL-1B_DP_GRD_HIGH","1","SENTINEL-1B_DUAL_POL_GRD_HIGH_RES","Not provided","SENTINEL-1B","2016-04-25T00:00:00.000Z","2021-12-24T00:00:00.000Z"
+"GES_DISC","M2I3NPASM","5.12.4","MERRA-2 inst3_3d_asm_Np: 3d,3-Hourly,Instantaneous,Pressure-Level,Assimilation,Assimilated Meteorological Fields 0.625 x 0.5 degree V5.12.4 (M2I3NPASM) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"ASF","SENTINEL-1A_META_SLC","1","SENTINEL-1A_METADATA_SLC","Not provided","SENTINEL-1A","2014-04-03T00:00:00.000Z",
+"GES_DISC","M2I3NVAER","5.12.4","MERRA-2 inst3_3d_aer_Nv: 3d,3-Hourly,Instantaneous,Model-Level,Assimilation,Aerosol Mixing Ratio 0.625 x 0.5 degree V5.12.4 (M2I3NVAER) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2TMNXAER","5.12.4","MERRA-2 tavgM_2d_aer_Nx: 2d,Monthly mean,Time-averaged,Single-Level,Assimilation,Aerosol Diagnostics 0.625 x 0.5 degree V5.12.4 (M2TMNXAER) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"ASF","ALOS_PSR_L1.5","1","ALOS_PALSAR_LEVEL1.5","1","ALOS","2006-03-23T16:10:55.000Z","2011-04-22T20:23:36.000Z"
+"ASF","ALOS_PSR_L1.1","1","ALOS_PALSAR_LEVEL1.1","1","ALOS","2006-01-23T00:00:00.000Z","2011-05-23T00:00:00.000Z"
+"ASF","ALOS_PSR_RTC_LOW","1","ALOS_PALSAR_RTC_LOW_RES","2","ALOS","2006-03-23T16:10:55.000Z","2011-04-22T20:23:36.000Z"
+"GES_DISC","M2T3NPTDT","5.12.4","MERRA-2 tavg3_3d_tdt_Np: 3d,3-Hourly,Time-Averaged,Pressure-Level,Assimilation,Temperature Tendencies 0.625 x 0.5 degree V5.12.4 (M2T3NPTDT) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2T3NVMST","5.12.4","MERRA-2 tavg3_3d_mst_Nv: 3d,3-Hourly,Time-Averaged,Model-Level,Assimilation,Moist Processes Diagnostics 0.625 x 0.5 degree V5.12.4 (M2T3NVMST) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2T3NPODT","5.12.4","MERRA-2 tavg3_3d_odt_Np: 3d,3-Hourly,Time-Averaged,Pressure-Level,Assimilation,Ozone Tendencies 0.625 x 0.5 degree V5.12.4 (M2T3NPODT) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2T3NENAV","5.12.4","MERRA-2 tavg3_3d_nav_Ne: 3d,3-Hourly,Time-Averaged, Vertical Coordinates 0.625 x 0.5 degree V5.12.4 (M2T3NENAV) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2IUNXGAS","5.12.4","MERRA-2 instU_2d_gas_Nx: 2d,diurnal,Instantaneous,Single-Level,Assimilation,Aerosol Optical Depth Analysis 0.625 x 0.5 degree V5.12.4 (M2IUNXGAS) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"ASF","SENTINEL-1A_DP_META_GRD_HIGH","1","SENTINEL-1A_DUAL_POL_METADATA_GRD_HIGH_RES","Not provided","SENTINEL-1A","2014-04-03T00:00:00.000Z",
+"GES_DISC","M2T3NXGLC","5.12.4","MERRA-2 tavg3_2d_glc_Nx: 2d,3-Hourly,Time-Averaged,Single-Level,Assimilation,Land Ice Surface Diagnostics 0.625 x 0.5 degree V5.12.4 (M2T3NXGLC) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2TMNXADG","5.12.4","MERRA-2 tavgM_2d_adg_Nx: 2d,Monthly mean,Time-averaged,Single-Level,Assimilation,Aerosol Diagnostics (extended) 0.625 x 0.5 degree V5.12.4 (M2TMNXADG) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2TMNXFLX","5.12.4","MERRA-2 tavgM_2d_flx_Nx: 2d,Monthly mean,Time-Averaged,Single-Level,Assimilation,Surface Flux Diagnostics 0.625 x 0.5 degree V5.12.4 (M2TMNXFLX) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2T1NXFLX","5.12.4","MERRA-2 tavg1_2d_flx_Nx: 2d,1-Hourly,Time-Averaged,Single-Level,Assimilation,Surface Flux Diagnostics 0.625 x 0.5 degree V5.12.4 (M2T1NXFLX) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2IUNPANA","5.12.4","MERRA-2 instU_3d_ana_Np: 3d,diurnal,Instantaneous,Pressure-Level,Analysis,Analyzed Meteorological Fields 0.625 x 0.5 degree V5.12.4 (M2IUNPANA) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"ASF","ALOS_PSR_KMZ","1","ALOS_PALSAR_KMZ","1","ALOS","2006-03-23T16:10:55.000Z","2011-04-22T20:23:36.000Z"
+"ASF","ALOS_PSR_L1.0","1","ALOS_PALSAR_LEVEL1.0","0","ALOS","2006-03-23T16:10:55.000Z","2011-04-22T20:23:36.000Z"
+"GES_DISC","M2T3NPUDT","5.12.4","MERRA-2 tavg3_3d_udt_Np: 3d,3-Hourly,Time-Averaged,Pressure-Level,Assimilation,Wind Tendencies 0.625 x 0.5 degree V5.12.4 (M2T3NPUDT) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"ASF","SENTINEL-1A_META_RAW","1","SENTINEL-1A_METADATA_RAW","Not provided","SENTINEL-1A","2014-04-03T00:00:00.000Z",
+"GES_DISC","M2T3NPRAD","5.12.4","MERRA-2 tavg3_3d_rad_Np: 3d,3-Hourly,Time-Averaged,Pressure-Level,Assimilation,Radiation Diagnostics 0.625 x 0.5 degree V5.12.4 (M2T3NPRAD) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2TUNPMST","5.12.4","MERRA-2 tavgU_3d_mst_Np: 3d,diurnal,Time-Averaged,Pressure-Level,Assimilation,Moist Processes Diagnostics 0.625 x 0.5 degree V5.12.4 (M2TUNPMST) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"POCLOUD","SWOT_L2_HR_LakeSP_2.0","2.0","SWOT Level 2 Lake Single-Pass Vector Data Product, Version 2.0","2","SWOT","2022-12-16T00:00:00.000Z",
+"GES_DISC","M2I6NPANA","5.12.4","MERRA-2 inst6_3d_ana_Np: 3d,6-Hourly,Instantaneous,Pressure-Level,Analysis,Analyzed Meteorological Fields 0.625 x 0.5 degree V5.12.4 (M2I6NPANA) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2TMNXLND","5.12.4","MERRA-2 tavgM_2d_lnd_Nx: 2d,Monthly mean,Time-Averaged,Single-Level,Assimilation,Land Surface Diagnostics 0.625 x 0.5 degree V5.12.4 (M2TMNXLND) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"ASF","SENTINEL-1A_OCN","1","SENTINEL-1A_OCN","Not provided","SENTINEL-1A","2014-04-03T00:00:00.000Z",
+"GES_DISC","M2TUNXGLC","5.12.4","MERRA-2 tavgU_2d_glc_Nx: 2d,diurnal,Time-Averaged,Single-Level,Assimilation,Land Ice Surface Diagnostics 0.625 x 0.5 degree V5.12.4 (M2TUNXGLC) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2T3NPCLD","5.12.4","MERRA-2 tavg3_3d_cld_Np: 3d,3-Hourly,Time-Averaged,Pressure-Level,Assimilation,Cloud Diagnostics 0.625 x 0.5 degree V5.12.4 (M2T3NPCLD) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2TUNXFLX","5.12.4","MERRA-2 tavgU_2d_flx_Nx: 2d,diurnal,Time-Averaged,Single-Level,Assimilation,Surface Flux Diagnostics 0.625 x 0.5 degree V5.12.4 (M2TUNXFLX) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2TUNXCHM","5.12.4","MERRA-2 tavgU_2d_chm_Nx: 2d,diurnal,Time-Averaged,Single-Level,Assimilation,Carbon Monoxide and Ozone Diagnostics 0.625 x 0.5 degree V5.12.4 (M2TUNXCHM) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"ASF","SENTINEL-1B_META_SLC","1","SENTINEL-1B_METADATA_SLC","Not provided","SENTINEL-1B","2016-04-25T00:00:00.000Z","2021-12-24T00:00:00.000Z"
+"GES_DISC","M2T1NXINT","5.12.4","MERRA-2 tavg1_2d_int_Nx: 2d,1-Hourly,Time-Averaged,Single-Level,Assimilation,Vertically Integrated Diagnostics 0.625 x 0.5 degree V5.12.4 (M2T1NXINT) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2TUNPRAD","5.12.4","MERRA-2 tavgU_3d_rad_Np: 3d,diurnal,Time-Averaged,Pressure-Level,Assimilation,Radiation Diagnostics 0.625 x 0.5 degree V5.12.4 (M2TUNPRAD) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"ASF","RSAT-1_L1","1","RADARSAT-1_LEVEL1","1","RADARSAT-1","1996-02-01T03:18:56.000Z","2009-03-17T17:34:23.000Z"
+"ASF","SENTINEL-1A_META_OCN","1","SENTINEL-1A_METADATA_OCN","Not provided","SENTINEL-1A","2014-04-03T00:00:00.000Z",
+"ASF","RSAT-1_L0","1","RADARSAT-1_LEVEL0","0","RADARSAT-1","1996-02-01T03:18:56.000Z","2009-03-17T17:34:23.000Z"
+"ASF","SENTINEL-1B_DP_META_GRD_HIGH","1","SENTINEL-1B_DUAL_POL_METADATA_GRD_HIGH_RES","Not provided","SENTINEL-1B","2016-04-25T00:00:00.000Z","2021-12-24T00:00:00.000Z"
+"ASF","SENTINEL-1B_DP_GRD_MEDIUM","1","SENTINEL-1B_DUAL_POL_GRD_MEDIUM_RES","Not provided","SENTINEL-1B","2016-04-25T00:00:00.000Z","2021-12-24T00:00:00.000Z"
+"ASF","SENTINEL-1B_OCN","1","SENTINEL-1B_OCN","Not provided","SENTINEL-1B","2016-04-25T00:00:00.000Z","2021-12-24T00:00:00.000Z"
+"GES_DISC","M2T1NXOCN","5.12.4","MERRA-2 tavg1_2d_ocn_Nx: 2d,1-Hourly,Time-Averaged,Single-Level,Assimilation,Ocean Surface Diagnostics 0.625 x 0.5 degree V5.12.4 (M2T1NXOCN) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2TMNXSLV","5.12.4","MERRA-2 tavgM_2d_slv_Nx: 2d,Monthly mean,Time-Averaged,Single-Level,Assimilation,Single-Level Diagnostics 0.625 x 0.5 degree V5.12.4 (M2TMNXSLV) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"ASF","SENTINEL-1A_DP_GRD_MEDIUM","1","SENTINEL-1A_DUAL_POL_GRD_MEDIUM_RES","Not provided","SENTINEL-1A","2014-04-03T00:00:00.000Z",
+"ASF","SENTINEL-1B_SP_META_GRD_MEDIUM","1","SENTINEL-1B_SINGLE_POL_METADATA_GRD_MEDIUM_RES","Not provided","SENTINEL-1B","2016-04-25T00:00:00.000Z","2021-12-24T00:00:00.000Z"
+"ASF","SENTINEL-1A_DP_META_GRD_MEDIUM","1","SENTINEL-1A_DUAL_POL_METADATA_GRD_MEDIUM_RES","Not provided","SENTINEL-1A","2014-04-03T00:00:00.000Z",
+"ASF","SENTINEL-1B_META_RAW","1","SENTINEL-1B_METADATA_RAW","Not provided","SENTINEL-1B","2016-04-25T00:00:00.000Z","2021-12-24T00:00:00.000Z"
+"ASF","SENTINEL-1B_SP_GRD_MEDIUM","1","SENTINEL-1B_SINGLE_POL_GRD_MEDIUM_RES","Not provided","SENTINEL-1B","2016-04-25T00:00:00.000Z","2021-12-24T00:00:00.000Z"
+"GES_DISC","M2I1NXASM","5.12.4","MERRA-2 inst1_2d_asm_Nx: 2d,1-Hourly,Instantaneous,Single-Level,Assimilation,Single-Level Diagnostics 0.625 x 0.5 degree V5.12.4 (M2I1NXASM) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"ASF","SENTINEL-1A_SP_META_GRD_HIGH","1","SENTINEL-1A_SINGLE_POL_METADATA_GRD_HIGH_RES","Not provided","SENTINEL-1A","2014-04-03T00:00:00.000Z",
+"GES_DISC","M2TUNXOCN","5.12.4","MERRA-2 tavgU_2d_ocn_Nx: 2d,diurnal,Time-Averaged,Single-Level,Assimilation,Ocean Surface Diagnostics 0.625 x 0.5 degree V5.12.4 (M2TUNXOCN) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"ASF","ERS-2_L0","1","ERS-2_LEVEL0","0","ERS-2","1995-10-01T03:13:03.000Z","2011-07-04T00:23:48.000Z"
+"ASF","ERS-1_L1","1","ERS-1_LEVEL1","1","ERS-1","1991-08-08T03:18:11.000Z","1997-09-29T15:20:44.000Z"
+"ASF","SENTINEL-1B_DP_META_GRD_MEDIUM","1","SENTINEL-1B_DUAL_POL_METADATA_GRD_MEDIUM_RES","Not provided","SENTINEL-1B","2016-04-25T00:00:00.000Z","2021-12-24T00:00:00.000Z"
+"ASF","SENTINEL-1A_SP_META_GRD_MEDIUM","1","SENTINEL-1A_SINGLE_POL_METADATA_GRD_MEDIUM_RES","Not provided","SENTINEL-1A","2014-04-03T00:00:00.000Z",
+"ASF","SENTINEL-1B_SP_META_GRD_HIGH","1","SENTINEL-1B_SINGLE_POL_METADATA_GRD_HIGH_RES","Not provided","SENTINEL-1B","2016-04-25T00:00:00.000Z","2021-12-24T00:00:00.000Z"
+"ASF","ERS-2_L1","1","ERS-2_LEVEL1","1","ERS-2","1995-10-01T03:13:03.000Z","2011-07-04T00:23:48.000Z"
+"GES_DISC","M2TUNXSLV","5.12.4","MERRA-2 tavgU_2d_slv_Nx: 2d,diurnal,Time-Averaged,Single-Level,Assimilation,Single-Level Diagnostics 0.625 x 0.5 degree V5.12.4 (M2TUNXSLV) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"ASF","JERS-1_L1","1","JERS-1_LEVEL0","0","JERS-1","1992-05-20T18:16:38.000Z","1998-10-11T00:57:08.000Z"
+"ASF","SENTINEL-1A_SP_GRD_MEDIUM","1","SENTINEL-1A_SINGLE_POL_GRD_MEDIUM_RES","Not provided","SENTINEL-1A","2014-04-03T00:00:00.000Z",
+"ASF","SENTINEL-1B_META_OCN","1","SENTINEL-1B_METADATA_OCN","Not provided","SENTINEL-1B","2016-04-25T00:00:00.000Z","2021-12-24T00:00:00.000Z"
+"ASF","ERS-1_L0","1","ERS-1_LEVEL0","0","ERS-1","1991-08-08T03:18:11.000Z","1997-09-29T15:20:44.000Z"
+"ASF","JERS-1_L0","1","JERS-1_LEVEL1","1","JERS-1","1992-05-20T18:16:38.000Z","1998-10-11T00:57:08.000Z"
+"GES_DISC","M2I3NVCHM","5.12.4","MERRA-2 inst3_3d_chm_Nv: 3d,3-Hourly,Instantaneous,Model-Level,Assimilation,Carbon Monoxide and Ozone Mixing Ratio 0.625 x 0.5 degree V5.12.4 (M2I3NVCHM) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2TMNXCSP","5.12.4","MERRA-2 tavgM_2d_csp_Nx: 2d,Monthly mean,Time-averaged,Single-Level,Assimilation,COSP Satellite Simulator 0.625 x 0.5 degree V5.12.4 (M2TMNXCSP) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2T3NETRB","5.12.4","MERRA-2 tavg3_3d_trb_Ne: 3d,3-Hourly,Time-Averaged,Model-Level Edge,Assimilation,Turbulence Diagnostics 0.625 x 0.5 degree V5.12.4 (M2T3NETRB) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2T3NEMST","5.12.4","MERRA-2 tavg3_3d_mst_Ne: 3d,3-Hourly,Time-Averaged,Model-Level Edge,Assimilation,Moist Processes Diagnostics 0.625 x 0.5 degree V5.12.4 (M2T3NEMST) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2TMNXCHM","5.12.4","MERRA-2 tavgM_2d_chm_Nx: 2d,Monthly mean,Time-Averaged,Single-Level,Assimilation,Carbon Monoxide and Ozone Diagnostics 0.625 x 0.5 degree V5.12.4 (M2TMNXCHM) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2TMNPCLD","5.12.4","MERRA-2 tavgM_3d_cld_Np: 3d,Monthly mean,Time-Averaged,Pressure-Level,Assimilation,Cloud Diagnostics 0.625 x 0.5 degree V5.12.4 (M2TMNPCLD) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2TMNXRAD","5.12.4","MERRA-2 tavgM_2d_rad_Nx: 2d,Monthly mean,Time-Averaged,Single-Level,Assimilation,Radiation Diagnostics 0.625 x 0.5 degree V5.12.4 (M2TMNXRAD) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"ASF","SENTINEL-1A_RAW","1","SENTINEL-1A_RAW","Not provided","SENTINEL-1A","2014-04-03T00:00:00.000Z",
+"GES_DISC","M2TUNXAER","5.12.4","MERRA-2 tavgU_2d_aer_Nx: 2d,diurnal,Time-averaged,Single-Level,Assimilation,Aerosol Diagnostics 0.625 x 0.5 degree V5.12.4 (M2TUNXAER) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2IMNPASM","5.12.4","MERRA-2 instM_3d_asm_Np: 3d,Monthly mean,Instantaneous,Pressure-Level,Assimilation,Assimilated Meteorological Fields 0.625 x 0.5 degree V5.12.4 (M2IMNPASM) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2T3NVRAD","5.12.4","MERRA-2 tavg3_3d_rad_Nv: 3d,3-Hourly,Time-Averaged,Model-Level,Assimilation,Radiation Diagnostics 0.625 x 0.5 degree V5.12.4 (M2T3NVRAD) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2T1NXRAD","5.12.4","MERRA-2 tavg1_2d_rad_Nx: 2d,1-Hourly,Time-Averaged,Single-Level,Assimilation,Radiation Diagnostics 0.625 x 0.5 degree V5.12.4 (M2T1NXRAD) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2T1NXLFO","5.12.4","MERRA-2 tavg1_2d_lfo_Nx: 2d,1-Hourly,Time-Averaged,Single-Level,Assimilation,Land Surface Forcings 0.625 x 0.5 degree V5.12.4 (M2T1NXLFO) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2T1NXCSP","5.12.4","MERRA-2 tavg1_2d_csp_Nx: 2d,1-Hourly,Time-averaged,Single-Level,Assimilation,COSP Satellite Simulator 0.625 x 0.5 degree V5.12.4 (M2T1NXCSP) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2I6NVANA","5.12.4","MERRA-2 inst6_3d_ana_Nv: 3d,6-Hourly,Instantaneous,Model-Level,Analysis,Analyzed Meteorological Fields 0.625 x 0.5 degree V5.12.4 (M2I6NVANA) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2SMNXSLV","5.12.4","MERRA-2 statM_2d_slv_Nx: 2d,Monthly,Aggregated Statistics,Single-Level,Assimilation,Single-Level Diagnostics 0.625 x 0.5 degree V5.12.4 (M2SMNXSLV) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2TUNXLND","5.12.4","MERRA-2 tavgU_2d_lnd_Nx: 2d,diurnal,Time-Averaged,Single-Level,Assimilation,Land Surface Diagnostics 0.625 x 0.5 degree V5.12.4 (M2TUNXLND) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2IUNPASM","5.12.4","MERRA-2 instU_3d_asm_Np: 3d,diurnal,Instantaneous,Pressure-Level,Assimilation,Assimilated Meteorological Fields 0.625 x 0.5 degree V5.12.4 (M2IUNPASM) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2IMNXGAS","5.12.4","MERRA-2 instM_2d_gas_Nx: 2d,Monthly mean,Instantaneous,Single-Level,Assimilation,Aerosol Optical Depth Analysis 0.625 x 0.5 degree V5.12.4 (M2IMNXGAS) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2TMNPUDT","5.12.4","MERRA-2 tavgM_3d_udt_Np: 3d,Monthly mean,Time-Averaged,Pressure-Level,Assimilation,Wind Tendencies 0.625 x 0.5 degree V5.12.4 (M2TMNPUDT) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2I3NVGAS","5.12.4","MERRA-2 inst3_3d_gas_Nv: 3d,3-Hourly,Instantaneous,Model-Level,Assimilation,Aerosol Mixing Ratio Analysis Increments 0.625 x 0.5 degree V5.12.4 (M2I3NVGAS) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2TMNXLFO","5.12.4","MERRA-2 tavgM_2d_lfo_Nx: 2d,Monthly mean,Time-Averaged,Single-Level,Assimilation,Land Surface Forcings 0.625 x 0.5 degree V5.12.4 (M2TMNXLFO) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2IMNXLFO","5.12.4","MERRA-2 instM_2d_lfo_Nx: 2d,Monthly mean,Instantaneous,Single-Level,Assimilation,Land Surface Forcings 0.625 x 0.5 degree V5.12.4 (M2IMNXLFO) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2TUNPUDT","5.12.4","MERRA-2 tavgU_3d_udt_Np: 3d,diurnal,Time-Averaged,Pressure-Level,Assimilation,Wind Tendencies 0.625 x 0.5 degree V5.12.4 (M2TUNPUDT) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2TMNPMST","5.12.4","MERRA-2 tavgM_3d_mst_Np: 3d,Monthly mean,Time-Averaged,Pressure-Level,Assimilation,Moist Processes Diagnostics 0.625 x 0.5 degree V5.12.4 (M2TMNPMST) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2TMNXOCN","5.12.4","MERRA-2 tavgM_2d_ocn_Nx: 2d,Monthly mean,Time-Averaged,Single-Level,Assimilation,Ocean Surface Diagnostics 0.625 x 0.5 degree V5.12.4 (M2TMNXOCN) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2TMNPRAD","5.12.4","MERRA-2 tavgM_3d_rad_Np: 3d,Monthly mean,Time-Averaged,Pressure-Level,Assimilation,Radiation Diagnostics 0.625 x 0.5 degree V5.12.4 (M2TMNPRAD) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2IMNPANA","5.12.4","MERRA-2 instM_3d_ana_Np: 3d,Monthly mean,Instantaneous,Pressure-Level,Analysis,Analyzed Meteorological Fields 0.625 x 0.5 degree V5.12.4 (M2IMNPANA) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2T3NPMST","5.12.4","MERRA-2 tavg3_3d_mst_Np: 3d,3-Hourly,Time-Averaged,Pressure-Level,Assimilation,Moist Processes Diagnostics 0.625 x 0.5 degree V5.12.4 (M2T3NPMST) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2TUNPTRB","5.12.4","MERRA-2 tavgU_3d_trb_Np: 3d,diurnal,Time-Averaged,Pressure-Level,Assimilation,Turbulence Diagnostics 0.625 x 0.5 degree V5.12.4 (M2TUNPTRB) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2T1NXADG","5.12.4","MERRA-2 tavg1_2d_adg_Nx: 2d,1-Hourly,Time-averaged,Single-Level,Assimilation,Aerosol Diagnostics (extended) 0.625 x 0.5 degree V5.12.4 (M2T1NXADG) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2TUNXCSP","5.12.4","MERRA-2 tavgU_2d_csp_Nx: 2d,diurnal,Time-averaged,Single-Level,Assimilation,COSP Satellite Simulator 0.625 x 0.5 degree V5.12.4 (M2TUNXCSP) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2TUNPCLD","5.12.4","MERRA-2 tavgU_3d_cld_Np: 3d,diurnal,Time-Averaged,Pressure-Level,Assimilation,Cloud Diagnostics 0.625 x 0.5 degree V5.12.4 (M2TUNPCLD) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2TUNPTDT","5.12.4","MERRA-2 tavgU_3d_tdt_Np: 3d,diurnal,Time-Averaged,Pressure-Level,Assimilation,Temperature Tendencies 0.625 x 0.5 degree V5.12.4 (M2TUNPTDT) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2TMNPQDT","5.12.4","MERRA-2 tavgM_3d_qdt_Np: 3d,Monthly mean,Time-Averaged,Pressure-Level,Assimilation,Moist Tendencies 0.625 x 0.5 degree V5.12.4 (M2TMNPQDT) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2TUNPODT","5.12.4","MERRA-2 tavgU_3d_odt_Np: 3d,diurnal,Time-Averaged,Pressure-Level,Assimilation,Ozone Tendencies 0.625 x 0.5 degree V5.12.4 (M2TUNPODT) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2T3NVCLD","5.12.4","MERRA-2 tavg3_3d_cld_Nv: 3d,3-Hourly,Time-Averaged,Model-Level,Assimilation,Cloud Diagnostics 0.625 x 0.5 degree V5.12.4 (M2T3NVCLD) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2TUNPQDT","5.12.4","MERRA-2 tavgU_3d_qdt_Np: 3d,diurnal,Time-Averaged,Pressure-Level,Assimilation,Moist Tendencies 0.625 x 0.5 degree V5.12.4 (M2TUNPQDT) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2TMNXINT","5.12.4","MERRA-2 tavgM_2d_int_Nx: 2d,Monthly mean,Time-Averaged,Single-Level,Assimilation,Vertically Integrated Diagnostics 0.625 x 0.5 degree V5.12.4 (M2TMNXINT) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2IMNXASM","5.12.4","MERRA-2 instM_2d_asm_Nx: 2d,Monthly mean,Single-Level,Assimilation,Single-Level Diagnostics 0.625 x 0.5 degree V5.12.4 (M2IMNXASM) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2TUNXRAD","5.12.4","MERRA-2 tavgU_2d_rad_Nx: 2d,diurnal,Time-Averaged,Single-Level,Assimilation,Radiation Diagnostics 0.625 x 0.5 degree V5.12.4 (M2TUNXRAD) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"ASF","SENTINEL-1A_SP_GRD_HIGH","1","SENTINEL-1A_SINGLE_POL_GRD_HIGH_RES","Not provided","SENTINEL-1A","2014-04-03T00:00:00.000Z",
+"CSDA","WV03_MSI_L1B","1","WorldView-3 Level 1B Multispectral 8-Band Satellite Imagery","1B","WORLDVIEW-3","2014-08-13T00:00:00.000Z",
+"GES_DISC","M2TMNPTDT","5.12.4","MERRA-2 tavgM_3d_tdt_Np: 3d,Monthly mean,Time-Averaged,Pressure-Level,Assimilation,Temperature Tendencies 0.625 x 0.5 degree V5.12.4 (M2TMNPTDT) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2TUNXINT","5.12.4","MERRA-2 tavgU_2d_int_Nx: 2d,diurnal,Time-Averaged,Single-Level,Assimilation,Vertically Integrated Diagnostics 0.625 x 0.5 degree V5.12.4 (M2TUNXINT) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2TMNPODT","5.12.4","MERRA-2 tavgM_3d_odt_Np: 3d,Monthly mean,Time-Averaged,Pressure-Level,Assimilation,Ozone Tendencies 0.625 x 0.5 degree V5.12.4 (M2TMNPODT) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"ASF","SENTINEL-1B_SP_GRD_HIGH","1","SENTINEL-1B_SINGLE_POL_GRD_HIGH_RES","Not provided","SENTINEL-1B","2016-04-25T00:00:00.000Z","2021-12-24T00:00:00.000Z"
+"GES_DISC","M2TMNPTRB","5.12.4","MERRA-2 tavgM_3d_trb_Np: 3d,Monthly mean,Time-Averaged,Pressure-Level,Assimilation,Turbulence Diagnostics 0.625 x 0.5 degree V5.12.4 (M2TMNPTRB) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2T1NXCHM","5.12.4","MERRA-2 tavg1_2d_chm_Nx: 2d,1-Hourly,Time-Averaged,Single-Level,Assimilation,Carbon Monoxide and Ozone Diagnostics 0.625 x 0.5 degree V5.12.4 (M2T1NXCHM) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2TMNXGLC","5.12.4","MERRA-2 tavgM_2d_glc_Nx: 2d,Monthly mean,Time-Averaged,Single-Level,Assimilation,Land Ice Surface Diagnostics 0.625 x 0.5 degree V5.12.4 (M2TMNXGLC) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2IUNXINT","5.12.4","MERRA-2 instU_2d_int_Nx: 2d,diurnal,Instantaneous,Single-Level,Assimilation,Vertically Integrated Diagnostics 0.625 x 0.5 degree V5.12.4 (M2IUNXINT) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2IUNXASM","5.12.4","MERRA-2 instU_2d_asm_Nx: 2d,diurnal,Instantaneous,Single-Level,Assimilation,Single-Level Diagnostics 0.625 x 0.5 degree V5.12.4 (M2IUNXASM) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2TUNXADG","5.12.4","MERRA-2 tavgU_2d_adg_Nx: 2d,diurnal,Time-averaged,Single-Level,Assimilation,Aerosol Diagnostics (extended) 0.625 x 0.5 degree V5.12.4 (M2TUNXADG) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"ASF","SENTINEL-1B_RAW","1","SENTINEL-1B_RAW","Not provided","SENTINEL-1B","2016-04-25T00:00:00.000Z","2021-12-24T00:00:00.000Z"
+"GES_DISC","M2IUNXLFO","5.12.4","MERRA-2 instU_2d_lfo_Nx: 2d,diurnal,Instantaneous,Single-Level,Assimilation,Land Surface Forcings 0.625 x 0.5 degree V5.12.4 (M2IUNXLFO) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2IMNXINT","5.12.4","MERRA-2 instM_2d_int_Nx: 2d,Monthly mean,Instantaneous,Single-Level,Assimilation,Vertically Integrated Diagnostics 0.625 x 0.5 degree V5.12.4 (M2IMNXINT) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"GES_DISC","M2TUNXLFO","5.12.4","MERRA-2 tavgU_2d_lfo_Nx: 2d,diurnal,Time-Averaged,Single-Level,Assimilation,Land Surface Forcings 0.625 x 0.5 degree V5.12.4 (M2TUNXLFO) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z",
+"CSDA","WV02_MSI_L1B","1","WorldView-2 Level 1B Multispectral 8-Band Satellite Imagery","1B","WORLDVIEW-2","2009-10-08T00:00:00.000Z",
+"ORNL_CLOUD","CMS_Global_Map_Mangrove_Canopy_1665","1.3","Global Mangrove Distribution, Aboveground Biomass, and Canopy Height","3","ICESat, FIELD SURVEYS, STS-99","2000-01-01T00:00:00.000Z","2014-08-03T23:59:59.000Z"
+"GES_DISC","M2C0NXASM","5.12.4","MERRA-2 const_2d_asm_Nx: 2d, constants 0.625 x 0.5 degree V5.12.4 (M2C0NXASM) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z","2020-12-31T23:59:59.999Z"
+"GES_DISC","M2C0NXCTM","5.12.4","MERRA-2 const_2d_ctm_Nx: Constant Model Parameters for Usage by CTM 0.625 x 0.5 degree V5.12.4 (M2C0NXCTM) at GES DISC","4","MERRA-2","1980-01-01T00:00:00.000Z","2020-12-31T23:59:59.999Z"
+"ORNL_CLOUD","CMS_Mangrove_Cover_1670","1.1","CMS: Mangrove Forest Cover Extent and Change across Major River Deltas, 2000-2016","4","LANDSAT-5, LANDSAT-7, LANDSAT-8, SENTINEL-1A, STS-99","2000-01-01T00:00:00.000Z","2016-12-31T23:59:59.000Z"
+"ORNL_CLOUD","Tidal_Wetland_Estuaries_Data_1742","1","Tidal Wetlands Soil Organic Carbon and Estuarine Characteristics, USA, 1972-2015","3","MODELS, FIELD SURVEYS","1972-01-01T00:00:00.000Z","2015-12-31T23:59:59.000Z"
+"ORNL_CLOUD","Coastal_US_Elevation_Data_1844","1","Relative Tidal Marsh Elevation Maps with Uncertainty for Conterminous USA, 2010","3","MODELS","1983-01-01T00:00:00.000Z","2010-12-31T23:59:59.000Z"
+"ORNL_CLOUD","CMS_Mangrove_Canopy_Ht_Zambezi_1357","1","CMS: Mangrove Canopy Height Estimates from Remote Imagery, Zambezi Delta, Mozambique","3","Airplane, SPACE SHUTTLES, WORLDVIEW-2, TSX","2011-10-14T00:00:00.000Z","2014-05-06T23:59:59.000Z"
+"ORNL_CLOUD","GCRW_DEM_2016_1793","1","Digital Elevation Models for the Global Change Research Wetland, Maryland, USA, 2016","3","Airplane, FIELD SURVEYS, COASTAL STATIONS, MODELS","2016-06-22T00:00:00.000Z","2016-08-15T23:59:59.000Z"
+"ORNL_CLOUD","InSAR_Prudhoe_Bay_1267","1","Pre-ABoVE: Remotely Sensed Active Layer Thickness, Prudhoe Bay, Alaska, 1992-2000","3","ALOS","1992-01-01T00:00:00.000Z","2000-12-31T23:59:59.000Z"
+"NSIDC_ECS","SNEX23_Lidar","1","SnowEx23 Airborne Lidar-Derived 0.25M Snow Depth and Canopy Height V001","Level 2A","CESSNA 206","2022-03-11T00:00:00.000Z","2023-10-25T23:59:59.999Z"
+"ORNL_CLOUD","PreDeltaX_Sonar_Bathymetry_1807","1","Pre-Delta-X: Channel Bathymetry of the Atchafalaya Basin, LA, USA, 2016","3","FIELD SURVEYS","2016-10-16T00:00:00.000Z","2016-10-20T23:59:59.000Z"
+"ORNL_CLOUD","CMS_LiDAR_Point_Cloud_Zambezi_1521","1","CMS: LiDAR Data for Mangrove Forests in the Zambezi River Delta, Mozambique, 2014","1B","Airplane","2014-05-05T00:00:00.000Z","2014-05-05T23:59:59.000Z"
+"ORNL_CLOUD","ReSALT_InSAR_Barrow_1266","1","Pre-ABoVE: Remotely Sensed Active Layer Thickness, Barrow, Alaska, 2006-2011","3","ALOS","2006-01-01T00:00:00.000Z","2011-12-31T23:59:59.000Z"
+"ORNL_CLOUD","PreDeltaX_Water_Level_Data_1801","1","Pre-Delta-X: Water Levels across Wax Lake Outlet, Atchafalaya Basin, LA, USA, 2016","3","COMPUTERS, FIELD SURVEYS","2016-10-13T00:00:00.000Z","2016-10-20T23:59:59.000Z"
+"ORNL_CLOUD","DeltaX_Sonar_Bathymetry_2085","1","Delta-X: Sonar Bathymetry Survey of Channels, MRD, Louisiana, 2021","3","FIELD SURVEYS","2021-03-25T00:00:00.000Z","2021-09-25T23:59:59.000Z"
+"ORNL_CLOUD","PreDeltaX_L3_AVIRIS_Biomass_1821","1","Pre-Delta-X: Aboveground Biomass and Vegetation Maps, Wax Lake Delta, LA, USA, 2016","3","FIELD SURVEYS, MODELS, B-200, UAV","2016-10-17T00:00:00.000Z","2016-10-17T23:59:59.000Z"
+"ORNL_CLOUD","Uncertainty_US_Coastal_GHG_1650","1","Coastal Wetland Elevation and Carbon Flux Inventory with Uncertainty, USA, 2006-2011","3","MODELS","2006-01-01T00:00:00.000Z","2011-12-31T23:59:59.000Z"
+"ORNL_CLOUD","NPP_BRW_580","2","NPP Tundra: Point Barrow, Alaska, 1970-1972, R1","3","FIELD INVESTIGATION","1921-01-01T00:00:00.000Z","1990-12-31T23:59:59.000Z"
+"ORNL_CLOUD","DeltaX_L1_AVIRIS_Radiance_1987","1","Delta-X: AVIRIS-NG L1B Spectral Radiance Products, MRD, Louisiana, 2021","1B","B-200","2021-03-27T09:58:10.000Z","2021-09-25T15:38:27.000Z"
+"ORNL_CLOUD","DeltaX_L3_UAVSAR_WaterLevels_2058","1.1","Delta-X: UAVSAR L3 Water Level Changes, MRD, Louisiana, 2021","3","G-III","2021-03-27T13:28:00.000Z","2021-09-13T23:59:59.000Z"
+"ORNL_CLOUD","DeltaX_L1_UAVSAR_SLC_Stack_1984","1.1","Delta-X: UAVSAR L1 Single Look Complex (SLC) Stack Products, MRD, Louisiana, 2021","1A","G-III","2021-03-27T13:28:19.000Z","2021-09-13T03:55:59.000Z"
+"ORNL_CLOUD","PreDeltaX_UAVSAR_SLC_1816","1","Pre-Delta-X: L1 UAVSAR Single Look Complex and Interferograms, MRD, LA, USA, 2016","1B","UAV","2016-10-16T14:08:00.000Z","2016-10-17T21:55:23.000Z"
+"ORNL_CLOUD","Arctic_Wildlife_Refuge_Veg_Map_1384","1","Land Cover and Vegetation Map, Arctic National Wildlife Refuge","3","LANDSAT, HELICOPTER, FIELD SURVEYS, DEM","1982-06-01T00:00:00.000Z","1993-08-31T23:59:59.000Z"
+"SEDAC","CIESIN_SEDAC_WACVM_SUBSETACE2","1.00","West Africa Coastal Vulnerability Mapping: Subset of High and Low Resolution Altimeter Corrected Elevations 2 (ACE2)","3","OV-105, ERS-1, ERS-2","1994-01-01T00:00:00.000Z","2005-12-31T00:00:00.000Z"
+"SEDAC","CIESIN_SEDAC_LECZ_URPLAEV2","2.00","Low Elevation Coastal Zone (LECZ) Urban-Rural Population and Land Area Estimates, Version 2","3","MODELS","1990-01-01T00:00:00.000Z","2100-01-01T00:00:00.000Z"
+"ORNL_CLOUD","DeltaX_RTK_Elevation_2071","1","Delta-X: Real-Time Kinematic Elevation Measurements for Coastal Wetlands, LA, 2021","3","FIELD SURVEYS","2021-03-21T00:00:00.000Z","2021-04-21T23:59:59.000Z"
+"SEDAC","CIESIN_SEDAC_LECZ_URPLAEV3","3.00","Low Elevation Coastal Zone (LECZ) Urban-Rural Population and Land Area Estimates, Version 3","3","MODELS","1990-01-01T00:00:00.000Z","2015-01-01T00:00:00.000Z"
+"SEDAC","CIESIN_SEDAC_LECZ_URPEV1","1.00","Low Elevation Coastal Zone (LECZ) Urban-Rural Population Estimates, Global Rural-Urban Mapping Project (GRUMP), Alpha Version","3","MODELS","1990-01-01T00:00:00.000Z","2000-01-01T00:00:00.000Z"
+"ASF","OPERA_L2_CSLC-S1_V1","1","OPERA Coregistered Single-Look Complex from Sentinel-1 validated product (Version 1)","2","Sentinel-1A, Sentinel-1B","2014-06-15T00:00:00.000Z",
+"ASF","OPERA_L2_RTC-S1_V1","1","OPERA Radiometric Terrain Corrected SAR Backscatter from Sentinel-1 validated product (Version 1)","2","Sentinel-1A, Sentinel-1B","2023-10-04T00:00:00.000Z",
+"ASF","SENTINEL-1_INTERFEROGRAMS_AMPLITUDE","1","Sentinel-1 Interferograms - Amplitude","2","SENTINEL-1A, SENTINEL-1B","2014-06-15T03:44:43.000Z",
+"ASF","SENTINEL-1_INTERFEROGRAMS_COHERENCE","1","Sentinel-1 Interferograms - Coherence","2","SENTINEL-1A, SENTINEL-1B","2014-06-15T03:44:43.000Z",
+"ASF","SENTINEL-1_INTERFEROGRAMS_CONNECTED_COMPONENTS","1","Sentinel-1 Interferograms - Connected Components","2","SENTINEL-1A, SENTINEL-1B","2014-06-15T03:44:43.000Z",
+"ASF","SENTINEL-1_INTERFEROGRAMS_UNWRAPPED_PHASE","1","Sentinel-1 Interferograms - Unwrapped Phase","2","SENTINEL-1A, SENTINEL-1B","2014-06-15T03:44:43.000Z",
+"POCLOUD","SWOT_L2_HR_LakeSP_obs_2.0","2.0","SWOT Level 2 Lake Single-Pass Vector Obs Data Product, Version 2.0","2","SWOT","2022-12-16T00:00:00.000Z",
+"POCLOUD","SWOT_L2_HR_LakeSP_prior_2.0","2.0","SWOT Level 2 Lake Single-Pass Vector Prior Data Product, Version 2.0","2","SWOT","2022-12-16T00:00:00.000Z",
+"POCLOUD","SWOT_L2_HR_LakeSP_unassigned_2.0","2.0","SWOT Level 2 Lake Single-Pass Vector Unassigned Data Product, Version 2.0","2","SWOT","2022-12-16T00:00:00.000Z",
+"POCLOUD","SWOT_L2_HR_RiverSP_node_2.0","2.0","SWOT Level 2 River Single-Pass Vector Node Data Product, Version 2.0","2","SWOT","2022-12-16T00:00:00.000Z",
+"POCLOUD","SWOT_L2_HR_RiverSP_reach_2.0","2.0","SWOT Level 2 River Single-Pass Vector Reach Data Product, Version 2.0","2","SWOT","2022-12-16T00:00:00.000Z",
+"USGS_LTA","MRLC","Not provided","Multi-Resolution Land Characteristics","Not provided","Not provided, LANDSAT, LANDSAT-4, LANDSAT-5","1984-07-14T00:00:00.000Z",
+"ASF","SENTINEL-1A_DP_GRD_FULL","1","SENTINEL-1A_DUAL_POL_GRD_FULL_RES","Not provided","SENTINEL-1A","2014-04-03T00:00:00.000Z",
+"ASF","SENTINEL-1A_DP_META_GRD_FULL","1","SENTINEL-1A_DUAL_POL_METADATA_GRD_FULL_RES","Not provided","SENTINEL-1A","2014-04-03T00:00:00.000Z",
+"USGS_LTA","srtm_water_body","Not provided","SRTM Water Body Data","Not provided","Not provided","1970-01-01T00:00:00.000Z",
+"POCLOUD","SWOT_SIMULATED_NA_CONTINENT_L2_HR_LAKESP_V1","1.0","SWOT Simulated Level 2 North America Continent High Rate Lake Vectors Product Version 1.0","2","COMPUTERS","2022-08-01T00:00:00.000Z","2022-08-22T23:59:00.000Z"
+"POCLOUD","SWOT_SIMULATED_NA_CONTINENT_L2_HR_RIVERSP_V1","1.0","SWOT Simulated Level 2 North America Continent High Rate River Vectors Product Version 1.0","2","COMPUTERS","2022-08-01T00:00:00.000Z","2022-08-22T23:59:00.000Z"
+"ORNL_CLOUD","DeltaX_TotalSubsidenceRate_MRD_2307","1","Delta-X: Land Subsidence Rate, Mississippi River Delta (MRD), Louisiana, USA","4","COMPUTERS","2021-01-01T00:00:00.000Z","2021-12-31T23:59:59.000Z"
+"ORNL_CLOUD","DeltaX_DEM_MRD_LA_2181","1","Delta-X: Digital Elevation Model, MRD, LA, USA, 2021","3","FIELD SURVEYS","2012-01-01T00:00:00.000Z","2021-12-31T23:59:59.000Z"
+"ORNL_CLOUD","DeltaX_L2_UAVSAR_WaterLevels_2057","1.1","Delta-X: UAVSAR L2 Interferometric Products, MRD, Louisiana, 2021","2","G-III","2021-03-27T13:28:00.000Z","2021-09-13T23:59:59.000Z"
+"ORNL_CLOUD","DeltaX_L1B_UAVSAR_WaterLevels_1979","1.1","Delta-X: UAVSAR L1B Interferometric Products, MRD, Louisiana, 2021","1B","G-III","2021-03-27T00:00:00.000Z","2021-09-13T03:52:59.000Z"
+"ORNL_CLOUD","DeltaX_L2_AirSWOT_WaterElev_V2_2128","2","Delta-X: AirSWOT L2 Geocoded Water Surface Elevation, MRD, Louisiana, 2021, Version 2","3","King Air, B-200","2021-03-26T00:00:00.000Z","2021-09-12T23:59:59.000Z"
+"ORNL_CLOUD","DeltaX_L3_AirSWOT_WaterElev_2133","1","Delta-X: AirSWOT L3 Water Surface Elevations, MRD, Louisiana, 2021","3","B-200","2021-03-26T16:39:36.000Z","2021-09-12T04:36:44.000Z"
+"ORNL_CLOUD","DeltaX_Delft3D_Atchafalaya_MRD_2302","1","Delta-X: Delft3D Broad-Scale Sediment Model, Atchafalaya Basin, MRD, Louisiana, USA","4","COMPUTERS","2021-03-20T00:00:00.000Z","2021-08-28T23:59:59.000Z"
+"ORNL_CLOUD","DeltaX_Delft3D_Terrebonne_MRD_2301","1","Delta-X: Delft3D Broad-Scale Sediment Model, Terrebonne Basin, MRD, Louisiana, USA","4","COMPUTERS","2021-03-25T00:00:00.000Z","2021-08-28T23:59:59.000Z"
+"ORNL_CLOUD","DeltaX_ANUGA_AtchafalayaBasin_2306","1","Delta-X: Calibrated ANUGA Hydrodynamic Outputs for the Atchafalaya Basin, MRD, LA","4","COMPUTERS","2016-10-15T00:00:00.000Z","2021-08-27T11:30:00.000Z"
+"ORNL_CLOUD","DeltaX_ANUGA_Hydrodynamics_MRD_2310","1","Delta-X: ANUGA Hydrodynamic Outputs, Atchafalaya and Terrebonne, MRD, USA","4","COMPUTERS","2021-03-20T00:00:00.000Z","2021-04-02T23:59:59.000Z"
+"ORNL_CLOUD","Permafrost_Thaw_Depth_YK_1598","1","ABoVE: Permafrost Measurements and Distribution Across the Y-K Delta, Alaska, 2016","3","IKONOS, FIELD SURVEYS, Airplane","2009-06-27T00:00:00.000Z","2016-07-17T23:59:59.000Z"
+"ORNL_CLOUD","PreDeltaX_L2_AirSWOT_1818","1","Pre-Delta-X: L2 AirSWOT Water Surface Elevations, Atchafalaya Basin, LA, USA, 2016","2","King Air","2015-05-08T11:02:30.000Z","2015-05-11T08:47:18.000Z"
+"SEDAC","CIESIN_SEDAC_LECZ_SLRIRAMSARWII","1.00","Sea Level Rise Impacts on Ramsar Wetlands of International Importance","3","MODELS","2000-01-01T00:00:00.000Z","2010-12-31T00:00:00.000Z"
+"SEDAC","CIESIN_SEDAC_NAGDC_PLACEIII","3.00","National Aggregates of Geospatial Data Collection: Population, Landscape, And Climate Estimates, Version 3 (PLACE III)","2","MODELS","1990-01-01T00:00:00.000Z","2010-12-31T00:00:00.000Z"
+"SEDAC","CIESIN_SEDAC_WACVM_GSSPEPP","1.00","West Africa Coastal Vulnerability Mapping: Gridded Subset of Sub-national Poverty and Extreme Poverty Prevalence","3","MODELS","2005-01-01T00:00:00.000Z","2005-12-31T00:00:00.000Z"
+"SEDAC","CIESIN_SEDAC_MA_ECOSYSTEMS","1.00","Millennium Ecosystem Assessment: MA Ecosystems","2","MODELS","2000-01-01T00:00:00.000Z","2000-12-31T00:00:00.000Z"
+"SEDAC","CIESIN_SEDAC_NAGDC_PLACEII","2.00","National Aggregates of Geospatial Data Collection: Population, Landscape, And Climate Estimates, Version 2 (PLACE II)","2","MODELS","1990-01-01T00:00:00.000Z","2000-12-31T00:00:00.000Z"
+"SEDAC","CIESIN_SEDAC_NAGDC_PLACE","1.00","National Aggregates of Geospatial Data Collection: Population, Landscape, And Climate Estimates (PLACE)","2","MODELS","1995-07-01T00:00:00.000Z","1995-07-01T00:00:00.000Z"
