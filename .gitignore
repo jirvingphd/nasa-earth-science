@@ -160,3 +160,6 @@ cython_debug/
 #.idea/
 earthdatacreds.json
 earthdata_creds.json
+
+data/MODIS-LST/urban/s3credentials
+**/*/s3credentials

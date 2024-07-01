@@ -1,0 +1,1615 @@
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" xml:lang="en"> <!--<![endif]-->
+    <head>
+        
+            <!-- Google Tag Manager -->
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 
+                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                })(window,document,'script','dataLayer','GTM-TKQR8KP');
+            </script>
+            <!-- End Google Tag Manager -->
+        
+
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        
+        <title>LP DAAC - MOD11A2</title>
+        <meta name="description" content="LP DAAC - Land Processes Distributed Active Archive Center - Sioux Falls, SD" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+        <!--Favicons-->
+        <link rel="apple-touch-icon" sizes="180x180" href="/static/favicon/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/static/favicon/icon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/static/favicon/icon-16x16.png">
+        <link rel="manifest" href="/static/favicon/site.webmanifest">
+        <link rel="mask-icon" href="/static/favicon/safari-pinned-tab.svg" color="#5bbad5">
+        <meta name="msapplication-TileColor" content="#da532c">
+        <meta name="theme-color" content="#ffffff">
+        
+        <!--Google site ownership verification-->
+        <meta name="google-site-verification" content="l7GvYUru5zYWfJK-Z1EWiovgVNvh_niQ8FZPGNoY6KM" />
+
+        
+
+            
+                <!-- Client IP push to Data Layer  -->
+                <script>
+                    var dataLayer = window.dataLayer = window.dataLayer || [];
+                    dataLayer.push({
+                        'event': 'ipAddress',
+                        'ipAddress': '152.61.129.161' //i.e.: 'ipAddress': '50.226.226.146'
+                    });
+                </script>
+            
+
+            <!-- Google Tag Manager -->
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                })(window,document,'script','dataLayer','GTM-WNP7MLF');
+            </script>
+
+            <!-- CrazyEgg -->
+            <script type="text/javascript">
+                setTimeout(function(){
+                    var a=document.createElement("script");
+                    var b=document.getElementsByTagName("script")[0];
+                    a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0013/2090.js?"+Math.floor(new Date().getTime()/3600000);
+                    a.async=true;
+                    a.type="text/javascript";
+                    b.parentNode.insertBefore(a,b)
+                }, 1);
+            </script>
+        
+
+        <!-- Earthdata Status App -->
+        <script src="https://status.earthdata.nasa.gov/assets/banner_widget.js"></script>        
+
+        <!-- Earthdata Feedback Module -->
+        <script src="https://fbm.earthdata.nasa.gov/for/lpdaac_ops/feedback.js" type="text/javascript"></script>
+        <script type="text/javascript">
+            feedback.init({showIcon: false});
+        </script>
+
+        <!-- Earthdata Tophat2 -->
+        <script src="https://cdn.earthdata.nasa.gov/tophat2/tophat2.js" id="earthdata-tophat-script" data-show-fbm="true" data-show-status="true" data-status-polling-interval="2"></script>
+
+        
+        <link rel="stylesheet" href="/static/CACHE/css/output.52b49df8c401.css" type="text/css">
+        
+        <link rel="stylesheet" href="/static/CACHE/css/output.bad35f318fb1.css" type="text/css">
+
+        
+        <link rel="stylesheet" href="/static/CACHE/css/output.8b0bf070b449.css" type="text/css">
+
+        
+        <script src="/static/CACHE/js/output.a18a6e6b77a6.js"></script>
+    </head>
+
+    <body class="">
+        
+            <!-- Google Tag Manager (noscript) -->
+            <noscript><iframe sandbox src="https://www.googletagmanager.com/ns.html?id=GTM-TKQR8KP"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <!-- End Google Tag Manager (noscript) -->
+
+            <!-- Google Tag Manager (noscript) -->
+            <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WNP7MLF"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <!-- End Google Tag Manager (noscript) -->
+        
+        
+        
+
+<link rel="stylesheet" href="/static/CACHE/css/output.8eebcb4f483f.css" type="text/css">
+
+
+<script src="/static/CACHE/js/output.aa45f3047ebe.js"></script>
+
+<header class="top-nav" id="nav-heading">
+    <nav class="desktop">
+        <ul class="logo-group">
+            <li class="single-logo"><a href="https://www.usgs.gov"><img src="/static/USGS_whitelogo.png" alt="USGS"/></a></li>
+            <li class="single-logo"><a href="https://www.nasa.gov"><img src="/static/NASA_bw.png" alt="NASA"/></a></li>
+        </ul>
+        <ul class="nav">
+            
+            
+                <li class="top-nav-link ">
+                    
+                        <a class="nav-heading" href="/">Home</a>
+                    
+                    
+                </li>
+            
+                <li class="top-nav-link  top-nav-link-dropdown ">
+                    
+                        <a class="nav-heading" href="#nav-heading">About</a>
+                    
+                    
+                        <ul>
+                            
+                                
+                                    <li class="block-internal_page_icon">
+                                        <div>
+                                            <a href="/about/">About LP DAAC
+                                                
+                                                    <i class="fa fa-circle-info fa-2x"></i>
+                                                
+                                            </a>
+                                        </div>
+                                    </li>
+                                
+                                
+                                
+                            
+                                
+                                    <li class="block-internal_page_icon">
+                                        <div>
+                                            <a href="/news/">News Archive
+                                                
+                                                    <i class="fa-regular fa-newspaper fa-2x"></i>
+                                                
+                                            </a>
+                                        </div>
+                                    </li>
+                                
+                                
+                                
+                            
+                        </ul>
+                    
+                </li>
+            
+                <li class="top-nav-link  top-nav-link-dropdown ">
+                    
+                        <a class="nav-heading" href="#nav-heading">Data</a>
+                    
+                    
+                        <ul>
+                            
+                                
+                                    <li class="block-internal_page_icon">
+                                        <div>
+                                            <a href="/data/get-started-data/">Get Started with Data
+                                                
+                                                    <i class="fa fa-road fa-2x"></i>
+                                                
+                                            </a>
+                                        </div>
+                                    </li>
+                                
+                                
+                                
+                            
+                                
+                                    <li class="block-internal_page_icon">
+                                        <div>
+                                            <a href="/product_search/?status=Operational">Search Data Catalog
+                                                
+                                                    <i class="fa fa-search fa-2x"></i>
+                                                
+                                            </a>
+                                        </div>
+                                    </li>
+                                
+                                
+                                
+                            
+                                
+                                    <li class="block-internal_page_icon">
+                                        <div>
+                                            <a href="/data/data-citation-and-policies/">Data Citations and Policies
+                                                
+                                                    <i class="fa fa-quote-right fa-2x"></i>
+                                                
+                                            </a>
+                                        </div>
+                                    </li>
+                                
+                                
+                                
+                            
+                                
+                                
+                                
+                                <li class="block-html">
+                                    <div>
+                                        <a href="/data/">View All Data</a>
+                                    </div>
+                                </li>
+                                
+                            
+                        </ul>
+                    
+                </li>
+            
+                <li class="top-nav-link  top-nav-link-dropdown ">
+                    
+                        <a class="nav-heading" href="#nav-heading">Tools</a>
+                    
+                    
+                        <ul>
+                            
+                                
+                                
+                                    <li class="block-page_link">
+                                        <div>
+                                            <a href="/tools/appeears/">AppEEARS</a>
+                                        </div>
+                                    </li>
+                                
+                                
+                            
+                                
+                                
+                                    <li class="block-page_link">
+                                        <div>
+                                            <a href="/tools/data-pool/">Data Pool</a>
+                                        </div>
+                                    </li>
+                                
+                                
+                            
+                                
+                                
+                                    <li class="block-page_link">
+                                        <div>
+                                            <a href="/tools/data-prep-scripts/">Data Prep Scripts</a>
+                                        </div>
+                                    </li>
+                                
+                                
+                            
+                                
+                                
+                                    <li class="block-page_link">
+                                        <div>
+                                            <a href="/tools/earthdata-search/">NASA Earthdata Search</a>
+                                        </div>
+                                    </li>
+                                
+                                
+                            
+                                
+                                
+                                    <li class="block-page_link">
+                                        <div>
+                                            <a href="/tools/usgs-earthexplorer/">USGS EarthExplorer</a>
+                                        </div>
+                                    </li>
+                                
+                                
+                            
+                                
+                                
+                                
+                                <li class="block-html">
+                                    <div>
+                                        <a href="/tools/">View All Tools</a>
+                                    </div>
+                                </li>
+                                
+                            
+                        </ul>
+                    
+                </li>
+            
+                <li class="top-nav-link  top-nav-link-dropdown ">
+                    
+                        <a class="nav-heading" href="#nav-heading">Resources</a>
+                    
+                    
+                        <ul>
+                            
+                                
+                                    <li class="block-internal_page_icon">
+                                        <div>
+                                            <a href="/resources/data-action/">Data in Action
+                                                
+                                                    <i class="fa fa-rocket fa-2x"></i>
+                                                
+                                            </a>
+                                        </div>
+                                    </li>
+                                
+                                
+                                
+                            
+                                
+                                    <li class="block-internal_page_icon">
+                                        <div>
+                                            <a href="/resources/e-learning/">E-Learning
+                                                
+                                                    <i class="fa fa-graduation-cap fa-2x"></i>
+                                                
+                                            </a>
+                                        </div>
+                                    </li>
+                                
+                                
+                                
+                            
+                                
+                                    <li class="block-internal_page_icon">
+                                        <div>
+                                            <a href="/resources/podcasts/">Podcasts
+                                                
+                                                    <i class="fa fa-microphone fa-2x"></i>
+                                                
+                                            </a>
+                                        </div>
+                                    </li>
+                                
+                                
+                                
+                            
+                                
+                                    <li class="block-internal_page_icon">
+                                        <div>
+                                            <a href="/resources/outreach-materials/">Outreach Materials
+                                                
+                                                    <i class="fa-regular fa-handshake fa-2x"></i>
+                                                
+                                            </a>
+                                        </div>
+                                    </li>
+                                
+                                
+                                
+                            
+                                
+                                    <li class="block-internal_page_icon">
+                                        <div>
+                                            <a href="/resources/publications/">Publications Table
+                                                
+                                                    <i class="fa fa-table fa-2x"></i>
+                                                
+                                            </a>
+                                        </div>
+                                    </li>
+                                
+                                
+                                
+                            
+                                
+                                    <li class="block-internal_page_icon">
+                                        <div>
+                                            <a href="/resources/faqs/">FAQs
+                                                
+                                                    <i class="fa-solid fa-circle-question fa-2x"></i>
+                                                
+                                            </a>
+                                        </div>
+                                    </li>
+                                
+                                
+                                
+                            
+                                
+                                
+                                
+                                <li class="block-html">
+                                    <div>
+                                        <a href="/resources/">View All Resources</a>
+                                    </div>
+                                </li>
+                                
+                            
+                        </ul>
+                    
+                </li>
+            
+                <li class="top-nav-link  top-nav-link-dropdown ">
+                    
+                        <a class="nav-heading" href="#nav-heading">Contact</a>
+                    
+                    
+                        <ul>
+                            
+                                
+                                    <li class="block-internal_page_icon">
+                                        <div>
+                                            <a href="/lpdaac-contact-us/">Contact Information
+                                                
+                                                    <i class="fa fa-address-card fa-2x"></i>
+                                                
+                                            </a>
+                                        </div>
+                                    </li>
+                                
+                                
+                                
+                            
+                                
+                                    <li class="block-internal_page_icon">
+                                        <div>
+                                            <a href="/submitdata/">Submit Data
+                                                
+                                                    <i class="fa fa-upload fa-2x"></i>
+                                                
+                                            </a>
+                                        </div>
+                                    </li>
+                                
+                                
+                                
+                            
+                        </ul>
+                    
+                </li>
+            
+            <li class="search-btn"><a class="toggle-search" href="#nav-search"><i class="fa fa-search"></i></a></li>
+        </ul>
+    </nav>
+    <div class="mobile"></div>
+</header>
+<div class="nav-search hide">
+    <div class="container">
+        <form class="form-group form-group-search" id="nav-search" action="/search/" method="GET">
+            <h3>General Site Search</h3>
+            <div class="search-box">
+                <input name="query" class="form-control" type="text" placeholder="Search...">
+                <button type="button" class="btn btn-block btn-primary"
+                    onClick="document.getElementById('nav-search').submit()">
+                    <i class="eui-icon eui-fa-search"></i>
+                </button>
+            </div>
+        </form>
+    </div>
+</div>
+<!-- Toggle General Site Search box -->
+<script>
+$('.toggle-search').on('click', function(e) {
+    $('.nav-search').toggleClass("hide show"); //you can list several class names 
+    $('.toggle-search i').toggleClass("fa-search fa-close");
+    e.preventDefault();
+});
+</script>
+
+
+        
+
+        <!-- Earthdata Status banner -->
+        <div id="earthdata-notification-banner"></div>
+
+        
+        
+        
+
+        
+            
+            
+                 
+                
+                <section class="jumbotron jumbotron-mini" style='background: no-repeat center url("/media/images/MOD11A2_v061_03Jul2020_Tibet_HERO.original.jpg"); background-size:cover;' alt="Terra MODIS land surface temperature data from the MOD11A2 product over Tibet, July 3 - 10, 2020.">
+                    <div class="container">
+                        <div class="jumbotron-text-overlay">
+                            <h1>MOD11A2 <span style="opacity:0.6;">v061</span></h1>
+                            
+    <h4>MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1 km SIN Grid</h4>
+    <!-- title/facets/badges -->
+        <div class="container">
+                <br><span>PI: Zhengming Wan</span>
+        </div>
+        
+            <i class="fa fa-cloud"></i>
+        
+
+                        </div>
+                        
+    <!-- quick facts -->
+    <div class="get-started full-width">
+        <div class="container">
+            <div class="row justify-content-center">
+                
+                <div class="col section-links">
+                    <a class="modal-trigger" href="#documentation">
+                        <i class="eui-icon eui-icon--xlg icon-Documentation"></i>
+                        <h4>Documentation</h4>
+                    </a>
+                </div>
+                
+                
+
+            <div class="col section-links">
+                <a class="modal-trigger" href="#using">
+                    <i class="eui-icon eui-icon--xlg icon-GIS"></i>
+                    <h4>Using the Data</h4>
+                </a>
+            </div>
+              
+
+                
+                <div class="col section-links">
+                    <a class="modal-trigger" href="#tools">
+                        <i class="eui-icon eui-icon--xlg icon-Toolbox"></i>
+                        <h4>Access Data</h4>
+                    </a>
+                </div>
+                
+
+                
+                <div class="col section-links">
+                    <a class="modal-trigger" href="#citation">
+                        <i class="eui-icon eui-icon--xlg icon-Citation"></i>
+                        <h4>Citation</h4>
+                    </a>
+                </div>
+                
+
+                <div class="col section-links">
+                    <a class="modal-trigger" href="#related_products">
+                        <i class="eui-icon eui-icon- -xlg icon-Related-Products"></i>
+                        <h4>Related Products</h4>
+                    </a>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+                    </div>
+                </section>
+                
+
+<div class='eui-breadcrumbs'>
+    <div class='container'>
+        <ul class='eui-breadcrumbs__list'>
+            
+                <li class='eui-breadcrumbs__item'><a href="/">Homepage</a></li>
+                <li class='eui-breadcrumbs__item'><a href="/data/">Data</a></li>
+                <li class='eui-breadcrumbs__item'><a href="/product_search/">Search Data Catalog</a></li>
+            
+            <li class='eui-breadcrumbs__item'>MOD11A2v061</li>
+        </ul>
+    </div>
+</div>
+
+
+            
+             
+
+            
+
+
+
+<section>
+    <div class="container">
+        <!-- description -->
+            <div class="row">
+                <div class="col-lg-12">
+                    <h3>Description</h3>
+                    <div class="read-more">
+                        <p>The Terra Moderate Resolution Imaging Spectroradiometer (MODIS) Land Surface Temperature/Emissivity 8-Day (MOD11A2) Version 6.1 product provides an average 8-day per-pixel Land Surface Temperature and Emissivity (LST&amp;E) with a 1 kilometer (km) spatial resolution in a 1,200 by 1,200 km grid. Each pixel value in the MOD11A2 is a simple average of all the corresponding <a href="https://doi.org/10.5067/MODIS/MOD11A1.061" target="_blank" rel="noopener noreferrer nofollower">MOD11A1</a> LST pixels collected within that 8-day period. The 8-day compositing period was chosen because twice that period is the exact ground track repeat period of the Terra and Aqua platforms. Provided along with the daytime and nighttime surface temperature bands are associated quality control assessments, observation times, view zenith angles, and clear-sky coverages along with bands 31 and 32 emissivities from land cover types.</p>
+
+                    </div>
+                    <span class="read-more-action">read more</span>
+                </div>
+            </div>
+
+        <!-- characteristics -->
+        <div class="row">
+            <div class="col">
+                <h3>Characteristics</h3>
+
+                
+                <!-- Product Improvements -->
+                <div class="row">
+                    <div class="col eui-accordion is-closed">
+                        <div class="eui-accordion__header">
+                            <h2 class="eui-accordion__title">Improvements/Changes from Previous Versions</h2>
+                            <div class="eui-accordion__icon" tabindex="0">
+                                <i class="eui-icon eui-fa-chevron-circle-down"></i>
+                            </div>
+                        </div>
+                        
+                        <div class="eui-accordion__body product-layers">
+                            <ul>
+<li>The Version 6.1 Level-1B (L1B) products have been improved by undergoing various calibration changes that include: changes to the response-versus-scan angle (RVS) approach that affects reflectance bands for Aqua and Terra MODIS, corrections to adjust for the optical crosstalk in Terra MODIS infrared (IR) bands, and corrections to the Terra MODIS forward look-up table (LUT) update for the period 2012 - 2017.</li>
+<li>A polarization correction has been applied to the L1B Reflective Solar Bands (RSB).</li>
+</ul>
+
+                        </div>
+                    </div>
+                </div>
+                
+
+                
+                <!-- Product Maturity -->
+                <div class="row">
+                    <div class="col eui-accordion is-closed">
+                        <div class="eui-accordion__header">
+                            <h2 class="eui-accordion__title">Product Maturity</h2>
+                            <div class="eui-accordion__icon" tabindex="0">
+                                <i class="eui-icon eui-fa-chevron-circle-down"></i>
+                            </div>
+                        </div>
+                        
+                        <div class="eui-accordion__body product-layers">
+                            <p>Validation at <a href="https://modis-land.gsfc.nasa.gov/MODLAND_val.html" target="_blank" rel="noopener noreferrer nofollower">stage 2</a> has been achieved for all MODIS Land Surface Temperature and Emissivity products. Further details regarding MODIS land product validation for the MOD11 data products are available from the <a href="https://modis-land.gsfc.nasa.gov/ValStatus.php?ProductID=MOD11" target="_blank" rel="noopener noreferrer nofollower">MODIS Land Team Validation site</a>.</p>
+
+                        </div>
+                    </div>
+                </div>
+                
+
+                <!-- collection/granule -->
+                <div class="row">
+                    <div class="col eui-accordion is-closed">
+                        <div class="eui-accordion__header">
+                            <h2 class="eui-accordion__title">Collection and Granule</h2>
+                            <div class="eui-accordion__icon" tabindex="0">
+                                <i class="eui-icon eui-fa-chevron-circle-down"></i>
+                            </div>
+                        </div>
+                        
+                        <div class="eui-accordion__body">
+                            <div class="row">
+                                <div class="col" id="collection">
+                                    <h3>Collection</h3>
+                                    <table>
+                                        <thead>
+                                            <tr>
+                                                <th>Characteristic</th>
+                                                <th>Description</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr><td>Collection</td><td>Terra MODIS</td></tr>
+                                            <tr><td>DOI</td><td>10.5067/MODIS/MOD11A2.061</td></tr>
+                                            <tr><td>File Size</td><td>~3.86 MB</td></tr>
+                                            <tr><td>Temporal Resolution</td><td>Multi-Day</td></tr>
+                                            <tr><td>Temporal Extent</td><td>2000-02-18 to Present</td></tr>
+                                            <tr><td>Spatial Extent</td><td>Global</td></tr>
+                                            <tr><td>Coordinate System</td><td>Sinusoidal</td></tr>
+                                            <tr><td>Datum</td><td>N/A</td></tr>
+                                            <tr><td>File Format</td><td>HDF-EOS</td></tr>
+                                            <tr><td>Geographic Dimensions</td><td>1200 km x 1200 km</td></tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+
+                                <div class="col" id="granule">
+                                    <h3>Granule</h3>
+                                    <table>
+                                        <thead>
+                                            <tr>
+                                                <th>Characteristic</th>
+                                                <th>Description</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr><td>Number of Science Dataset (SDS) Layers</td><td>12</td></tr>
+                                            <tr><td>Columns/Rows</td><td>1200 x 1200</td></tr>
+                                            <tr><td>Pixel Size</td><td>1000 m</td></tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- layers -->
+                <div class="row">
+                    <div class="col eui-accordion is-closed">
+                        <div class="eui-accordion__header">
+                            <h2 class="eui-accordion__title">Layers / Variables</h2>
+                            <div class="eui-accordion__icon" tabindex="0">
+                                <i class="eui-icon eui-fa-chevron-circle-down"></i>
+                            </div>
+                        </div>
+                        
+                        <div class="eui-accordion__body product-layers">
+                            <table>
+<thead>
+<tr>
+<th>SDS Name</th>
+<th>Description</th>
+<th>Units</th>
+<th>Data Type</th>
+<th>Fill Value</th>
+<th>No Data Value</th>
+<th>Valid Range</th>
+<th>Scale Factor</th>
+<th>Offset</th>
+</tr>
+
+</thead>
+<tbody>
+<tr>
+<td>LST_Day_1km</td>
+<td>Daytime Land Surface Temperature</td>
+<td>Kelvin</td>
+<td>16-bit unsigned integer</td>
+<td>0</td>
+<td>N/A</td>
+<td>7500 to 65535</td>
+<td>0.02</td>
+<td>N/A</td>
+</tr>
+<tr>
+<td>QC_Day</td>
+<td>Daytime LST Quality Indicators</td>
+<td>Bit Field</td>
+<td>8-bit unsigned integer</td>
+<td>N/A</td>
+<td>N/A</td>
+<td>0 to 255</td>
+<td>N/A</td>
+<td>N/A</td>
+</tr>
+<tr>
+<td>Day_view_time</td>
+<td>Local time of day observation</td>
+<td>Hours</td>
+<td>8-bit unsigned integer</td>
+<td>255</td>
+<td>N/A</td>
+<td>0 to 240</td>
+<td>0.1</td>
+<td>N/A</td>
+</tr>
+<tr>
+<td>Day_view_angl</td>
+<td>View zenith angle of day observation</td>
+<td>Degree</td>
+<td>8-bit unsigned integer</td>
+<td>255</td>
+<td>N/A</td>
+<td>0 to 130</td>
+<td>N/A</td>
+<td>-65</td>
+</tr>
+<tr>
+<td>LST_Night_1km</td>
+<td>Nighttime Land Surface Temperature</td>
+<td>Kelvin</td>
+<td>16-bit unsigned integer</td>
+<td>0</td>
+<td>N/A</td>
+<td>7500 to 65535</td>
+<td>0.02</td>
+<td>N/A</td>
+</tr>
+<tr>
+<td>QC_Night</td>
+<td>Nighttime LST Quality indicators</td>
+<td>Bit Field</td>
+<td>8-bit unsigned integer</td>
+<td>N/A</td>
+<td>N/A</td>
+<td>0 to 255</td>
+<td>N/A</td>
+<td>N/A</td>
+</tr>
+<tr>
+<td>Night_view_time</td>
+<td>Local time of night observation</td>
+<td>Hours</td>
+<td>8-bit unsigned integer</td>
+<td>255</td>
+<td>N/A</td>
+<td>0 to 240</td>
+<td>0.1</td>
+<td>N/A</td>
+</tr>
+<tr>
+<td>Night_view_angl</td>
+<td>View zenith angle of night observation</td>
+<td>Degree</td>
+<td>8-bit unsigned integer</td>
+<td>255</td>
+<td>N/A</td>
+<td>0 to 130</td>
+<td>N/A</td>
+<td>-65</td>
+</tr>
+<tr>
+<td>Emis_31</td>
+<td>Band 31 emissivity</td>
+<td>N/A</td>
+<td>8-bit unsigned integer</td>
+<td>0</td>
+<td>N/A</td>
+<td>1 to 255</td>
+<td>0.002</td>
+<td>0.49</td>
+</tr>
+<tr>
+<td>Emis_32</td>
+<td>Band 32 emissivity</td>
+<td>N/A</td>
+<td>8-bit unsigned integer</td>
+<td>0</td>
+<td>N/A</td>
+<td>1 to 255</td>
+<td>0.002</td>
+<td>0.49</td>
+</tr>
+<tr>
+<td>Clear_sky_days</td>
+<td>Day clear-sky coverage</td>
+<td>Bit Field</td>
+<td>8-bit unsigned integer</td>
+<td>0</td>
+<td>N/A</td>
+<td>1 to 255</td>
+<td>N/A</td>
+<td>N/A</td>
+</tr>
+<tr>
+<td>Clear_sky_nights</td>
+<td>Night clear-sky coverage</td>
+<td>Bit Field</td>
+<td>8-bit unsigned integer</td>
+<td>0</td>
+<td>N/A</td>
+<td>1 to 255</td>
+<td>N/A</td>
+<td>N/A</td>
+</tr>
+
+</tbody>
+</table>
+
+                            <br />
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                
+
+                
+                <!-- Product Quality -->
+                <div class="row">
+                    <div class="col eui-accordion is-closed">
+                        <div class="eui-accordion__header">
+                            <h2 class="eui-accordion__title">Product Quality</h2>
+                            <div class="eui-accordion__icon" tabindex="0">
+                                <i class="eui-icon eui-fa-chevron-circle-down"></i>
+                            </div>
+                        </div>
+                        
+                        <div class="eui-accordion__body product-layers">
+                            <p>The Quality Control (QC) layers are stored in an efficient bit-encoded manner. The unpack_sds_bits executable from the <a href="https://lpdaac.usgs.gov/tools/ldope/" target="_blank" rel="noopener noreferrer nofollower">LDOPE Tools</a> is available to the user community to help parse and interpret the QC layers.</p>
+<p>The QA bit flags for the QC layers are provided in the <a href="https://lpdaac.usgs.gov/documents/715/MOD11_User_Guide_V61.pdf" target="_blank" rel="noopener noreferrer nofollower">User Guide</a> in Table 13.</p>
+<p>Please note that whenever the Mandatory QA flags (bits 0-1) have a value of 2 (decoded to 10) or 3 (decoded to 11), LST is not produced due to cloud effects or other reasons. Under these conditions, all remaining QA bits and SDS layers are undefined (although bit flags display as 00).</p>
+<p>Quality assurance information should be considered when determining the usability of data for a particular science application. The <a href="https://git.earthdata.nasa.gov/projects/LPDUR/repos/arcgis-modis-viirs-python-toolbox/" target="_blank" rel="noopener noreferrer nofollower">ArcGIS MODIS-VIIRS Python Toolbox</a> contains tools capable of <a href="https://lpdaac.usgs.gov/resources/e-learning/decoding-modis-version-6-quality-science-datasets-using-modis-python-toolbox-arcgis/" target="_blank" rel="noopener noreferrer nofollower">decoding</a> quality data layers while producing thematic quality raster files for each quality attribute.</p>
+<p>In addition to data access and transformation processes, <a href="https://appeears.earthdatacloud.nasa.gov/" target="_blank" rel="noopener noreferrer nofollower">AppEEARS</a> also has the capability to unpack and interpret the quality layers.</p>
+
+                        </div>
+                    </div>
+                </div>
+                
+
+                
+                <!-- known issues -->
+                <div class="row">
+                    <div class="col eui-accordion is-closed">
+                        <div class="eui-accordion__header">
+                            <h2 class="eui-accordion__title">Known Issues</h2>
+                            <div class="eui-accordion__icon" tabindex="0">
+                                <i class="eui-icon eui-fa-chevron-circle-down"></i>
+                            </div>
+                        </div>
+                        
+                        <div class="eui-accordion__body product-layers">
+                            <p>For complete information about known issues please refer to the <a href="https://landweb.modaps.eosdis.nasa.gov/cgi-bin/QS/new/pages.cgi?name=known_issues" target="_blank" rel="noopener noreferrer nofollower">MODIS/VIIRS Land Quality Assessment website</a>.</p>
+
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+        <br>
+
+        <!-- About the image -->
+        
+        <div class="row">
+            <div class="col">
+                <h3>About the image</h3>
+                <div class="eui-modal-content-body">
+                    <p data-block-key="f42qc">Terra MODIS land surface temperature data from the MOD11A2 product over Tibet, July 3 - 10, 2020.</p>
+                    
+                    <a href="/media/images/MOD11A2_v061_03Jul2020_Tibet_HERO.original.jpg" target="_blank">View full-size image</a>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</section>
+    <!-- documentation modal -->
+    <div id="documentation" class="eui-modal-content">
+        <h3>Documentation</h3>
+        <div class="eui-modal-content-body">
+            <p data-block-key="hgpot"><a href="/documents/715/MOD11_User_Guide_V61.pdf">User Guide</a><br/><a href="/documents/119/MOD11_ATBD.pdf">Algorithm Theoretical Basis Document (ATBD)</a><br/> <a href="https://ladsweb.modaps.eosdis.nasa.gov/filespec/MODIS/61/MOD11A2" target="_blank" rel="noopener noreferrer nofollower">File Specification</a></p>
+            <script>
+                var items = document.querySelectorAll("#documentation div a[href$='.html']");
+                for(var i in items){
+                   items[i].target='_blank';
+                   items[i].rel="noopener noreferrer nofollower";
+                   items[i].href="/documents"+items[i].href.split("/documents")[1];
+                }
+            </script>
+        </div>
+    </div>
+    
+    <!-- using the data modal -->
+    <div id="using" class="eui-modal-content">
+        <h3>Using the Data</h3>
+        <div class="eui-modal-content-body">
+
+            
+            <div class="col eui-accordion is-closed">
+                <div class="eui-accordion__header">
+                    <h2 class="eui-accordion__title">E-Learning</h2>
+                    <div class="eui-accordion__icon" tabindex="0">
+                        <i class="eui-icon eui-fa-chevron-circle-down"></i>
+                    </div>
+                </div>
+                <div class="eui-accordion__body">
+                    
+                        <p><a href='/resources/e-learning/data-citation-tips-from-nasas-land-processes-daac/'>Data Citation Tips from NASA’s Land Processes DAAC</a></p>
+                    
+                        <p><a href='/resources/e-learning/remote-sensing-with-lp-daac-data-assets-and-cloud-processing-part-1-introduction-to-nasas-remote-sensing-datasets-and-tools/'>Remote Sensing with LP DAAC Data Assets and Cloud Processing – Part 1: Introduction to NASA&#x27;s Remote Sensing Datasets and Tools</a></p>
+                    
+                </div>
+            </div>
+            
+
+            
+            <div class="col eui-accordion is-closed">
+                <div class="eui-accordion__header">
+                    <h2 class="eui-accordion__title">Data In Action</h2>
+                    <div class="eui-accordion__icon" tabindex="0">
+                        <i class="eui-icon eui-fa-chevron-circle-down"></i>
+                    </div>
+                </div>
+                <div class="eui-accordion__body">
+                    
+                        <p><a href='/resources/data-action/highlights-nasa-develop-national-program-spring-2015-term/'>Highlights from the NASA DEVELOP National Program Spring 2015 Term</a></p>
+                    
+                        <p><a href='/resources/data-action/highlights-literature-january-march-2018/'>Highlights from the Literature: January to March 2018</a></p>
+                    
+                        <p><a href='/resources/data-action/two-sensors-are-greater-one-observing-drought-smap-and-modis/'>Two Sensors are Greater than One: Observing Drought with SMAP and MODIS</a></p>
+                    
+                        <p><a href='/resources/data-action/detecting-urban-rural-temperature-differences-modis-and-appeears/'>Detecting Urban-Rural Temperature Differences with MODIS and AppEEARS</a></p>
+                    
+                        <p><a href='/resources/data-action/highlights-literature-october-december-2016/'>Highlights from the Literature: October to December 2016</a></p>
+                    
+                        <p><a href='/resources/data-action/creek-without-paddle-fish-conservation-remote-regions/'>Up a Creek Without a Paddle: Fish Conservation in Remote Regions</a></p>
+                    
+                        <p><a href='/resources/data-action/using-modis-meet-challenges-west-nile-virus-outbreaks/'>Using MODIS to Meet the Challenges of West Nile Virus Outbreaks</a></p>
+                    
+                        <p><a href='/resources/data-action/highlights-literature-july-september-2014/'>Highlights from the Literature: July to September 2014</a></p>
+                    
+                        <p><a href='/resources/data-action/sensing-our-planet-nasa-earth-science-research-features-2017/'>Sensing Our Planet: NASA Earth Science Research Features 2017</a></p>
+                    
+                        <p><a href='/resources/data-action/highlights-literature-january-march-2019/'>Highlights from the Literature: January to March 2019</a></p>
+                    
+                        <p><a href='/resources/data-action/nasa-earth-observing-data-and-tools-aid-international-education/'>NASA Earth Observing Data and Tools Aid International Education</a></p>
+                    
+                        <p><a href='/resources/data-action/highlights-from-the-literature-january-to-march-2021/'>Highlights from the Literature: January to March 2021</a></p>
+                    
+                        <p><a href='/resources/data-action/highlights-from-the-literature-october-to-december-2021/'>Highlights from the Literature: October to December 2021</a></p>
+                    
+                </div>
+            </div>
+            
+
+            <div class="col eui-accordion is-closed">
+                <div class="eui-accordion__header">
+                    <h2 class="eui-accordion__title">Publications</h2>
+                    <div class="eui-accordion__icon" tabindex="0">
+                        <i class="eui-icon eui-fa-chevron-circle-down"></i>
+                    </div>
+                </div>
+                <div class="eui-accordion__body">
+                    <p><a href='http://lpdaac.usgs.gov/resources/publications/?MOD11A2' target='_blank'>View research publications that used these data</a></p>
+                </div>
+            </div>
+
+            <div class="col eui-accordion is-closed">
+                <div class="eui-accordion__header">
+                    <h2 class="eui-accordion__title">Earthdata Forum</h2>
+                    <div class="eui-accordion__icon" tabindex="0">
+                        <i class="eui-icon eui-fa-chevron-circle-down"></i>
+                    </div>
+                </div>
+                <div class="eui-accordion__body">
+                    <p><a href='https://forum.earthdata.nasa.gov/' target='_blank'>Join the data discussion over on the Earthdata Forum.</a></p>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+    
+    <!-- tools modal -->
+    <div id="tools" class="eui-modal-content">
+        <h3>Access Data</h3>
+        <div class='eui-modal-content-body modal-table'>
+            <table>
+                <thead>
+                    <th>Tool</th>
+                    <th>Functionality</th>
+                    <th>Description</th>
+                    <th style="padding-right: 10px;">Download Data</th>
+                </thead>
+                <tbody>
+                    
+                    <tr>
+                        <td><a href="/tools/appeears/">AppEEARS</a></td>
+                        <td>Decode Quality, Order, Search, Subset</td>
+                        <td>The Application for Extracting and Exploring Analysis Ready Samples (AρρEEARS) offers users a simpl…</td>
+                        <td>
+                            
+                            
+                                <a href="https://appeears.earthdatacloud.nasa.gov/" target="_blank" class="btn">
+                                    <i class="fa fa-download" aria-hidden="true"></i>
+                                </a>                           
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td><a href="/tools/data-pool/">Data Pool</a></td>
+                        <td>Direct Download</td>
+                        <td>The Data Pool is the publicly available portion of the LP DAAC online holdings. Data Pool provides …</td>
+                        <td>
+                            
+                                
+                                <a href="https://e4ftl01.cr.usgs.gov/MOLT/MOD11A2.061/" target="_blank" class="btn">
+                                    <i class="fa fa-download" aria-hidden="true"></i>
+                                </a>
+                                
+                            
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td><a href="/tools/earthdata-search/">NASA Earthdata Search</a></td>
+                        <td>Browse Image Preview, Direct Download, Order, Search, Subset</td>
+                        <td>Earthdata Search combines the latest EOSDIS service offerings with user experience, research, and e…</td>
+                        <td>
+                            
+                            
+                            
+                                
+                                <a href="https://search.earthdata.nasa.gov/search?q=C2269056084-LPCLOUD" target="_blank" class="btn">
+                                    <i class="fa fa-download" aria-hidden="true"></i>
+                                </a>
+                                
+                            
+                            
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td><a href="/tools/usgs-earthexplorer/">USGS EarthExplorer</a></td>
+                        <td>Browse Image Preview, Search</td>
+                        <td>The EarthExplorer (EE) user interface, developed by the United States Geological Survey (USGS), pro…</td>
+                        <td>
+                            
+                            
+                            
+                            
+                                <a href="https://earthexplorer.usgs.gov/" target="_blank" class="btn">
+                                    <i class="fa fa-download" aria-hidden="true"></i>
+                                </a>
+                            
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td><a href="/tools/opendap/">OPeNDAP</a></td>
+                        <td>Direct Download, Subset</td>
+                        <td>The LP DAAC OPeNDAP services provide access to a number of data products at the LP DAAC. The Open-s…</td>
+                        <td>
+                            
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td><a href="/tools/daac2diskscripts/">DAAC2Disk Utility</a></td>
+                        <td>Direct Download</td>
+                        <td>The LP DAAC2Disk download manager allows users to simplify the search and HTTPS download process of…</td>
+                        <td>
+                            
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                
+                    <tr>
+                        <td><a href="/tools/ldope/">LDOPE</a></td>
+                        <td>Decode Quality</td>
+                        <td>The Land Data Operational Products Evaluation (LDOPE) facility, collocated with the MODIS Adaptive …</td>
+                        <td>
+                            
+                            
+                            
+                            
+                        </td>
+                    </tr>
+                
+                </tbody>
+            </table>
+            </div>
+    </div>
+
+    <!-- citation modal -->
+    <div id="citation" class="eui-modal-content">
+        <h3>Citation</h3>
+        <h4>DOI: 10.5067/MODIS/MOD11A2.061</h4>
+        <div class="row">
+            <select id='citation_style' class="single-select">
+                <option value='default'>Select a citation style...</option>
+                <option value='apa'>APA</option>
+                <option value='chicago'>Chicago</option>
+            </select>
+            <div class="tooltip">
+                <button id='copybutton' onclick="copyFunction('citation_result')" onmouseout="outFunc()" class="btn">
+                    <span class="tooltiptext" id="myTooltip" style="visibility:hidden;"></span>
+                    <i class="fa fa-copy"></i>
+                       Copy Citation
+                </button>
+            </div>
+        </div>
+        <div class="eui-modal-content-body">
+            <p id=citation_result></p>
+            
+        </div>
+    </div>
+
+    <!-- Related products modal -->
+    <div id="related_products" class="eui-modal-content">
+        <h3>Related Products</h3>
+        <div class="eui-modal-content-body">
+            <p><a href='http://lpdaac.usgs.gov/product_search/?keyword=Emissivity&amp;keyword=Land+Surface+Temperature+%28LST%29&amp;view=list&amp;sort=title&amp;status=Operational' target='_blank'>View data products that are related to this product</a></p>
+        </div>
+    </div>
+
+    <script>
+        $(".modal-trigger").leanModal();
+    </script>    
+    <script>
+        $("#citation_style").change(function(event){
+            var citation_type = event.target.value;
+            if(citation_type != "default")
+            {
+                // Give some immediate feedback.  TODO: spinner?
+                $("#citation_result").text("Please wait...");
+
+                // make the call and replace the text
+                endpoint = 'https://citation.cr.usgs.gov/10.5067/MODIS/MOD11A2.061/' + citation_type + '/';
+                $.ajax({
+                    url:     endpoint,
+                    success: function(response){$("#citation_result").html(response);},
+                    error:   function(err){$("#citation_result").html("An error occurred: " + err.responseText);},
+                });
+            }
+            else
+            {
+                $("#citation_result").text("")
+            }
+        })
+    </script>
+    <script>   
+        function copyFunction(id) {
+            var select = document.getElementById("citation_style").selectedIndex;
+	    var str = document.getElementById(id).innerHTML;
+	    function listener(e){
+ 		e.clipboardData.setData("text/html", str);
+   		e.clipboardData.setData("text/plain", str);
+   		e.preventDefault();
+  		}
+ 	    document.addEventListener("copy", listener);
+  	    document.execCommand("copy");
+  	    document.removeEventListener("copy", listener);
+		
+            document.getElementById("myTooltip").style.visibility = "visible";
+            if (select == 0){
+                var tooltip = document.getElementById("myTooltip");
+                tooltip.innerHTML = "Please select a Citation Style...";
+            } else {
+                var tooltip = document.getElementById("myTooltip");
+                tooltip.innerHTML = "Citation Copied";
+            }
+        }
+        function outFunc() {
+            var tooltip = document.getElementById("myTooltip");
+            tooltip.innerHTML = "";
+            document.getElementById("myTooltip").style.visibility = "hidden";
+        }
+    </script>
+
+        
+
+        <footer>
+            <div class="container">
+                <ul class='sections'>
+                    
+
+
+
+
+    <li class="top-nav-link top-nav-link-dropdown">
+        <a class="nav-heading" href="#">About</a>
+        <ul>
+            
+                
+                    <li class="block-page_link">
+                        <div>
+                            <a target="_self" href="/about/">
+                                About the LP DAAC
+                                
+                            </a>
+                            <!-- Work on adding icon -->
+                        </div>
+                    </li>
+                
+            
+                
+                    <li class="block-page_link">
+                        <div>
+                            <a target="_self" href="/news/">
+                                News Archive
+                                
+                            </a>
+                            <!-- Work on adding icon -->
+                        </div>
+                    </li>
+                
+            
+        </ul>
+    </li>
+
+    <li class="top-nav-link top-nav-link-dropdown">
+        <a class="nav-heading" href="#">Data</a>
+        <ul>
+            
+                
+                    <li class="block-page_link">
+                        <div>
+                            <a target="_self" href="/data/">
+                                View All Data
+                                
+                            </a>
+                            <!-- Work on adding icon -->
+                        </div>
+                    </li>
+                
+            
+                
+                    <li class="block-page_link">
+                        <div>
+                            <a target="_self" href="/data/get-started-data/">
+                                Get Started with Data
+                                
+                            </a>
+                            <!-- Work on adding icon -->
+                        </div>
+                    </li>
+                
+            
+                
+                    <li class="block-page_link">
+                        <div>
+                            <a target="_self" href="/data/get-started-data/collection-overview/">
+                                Collection Overviews
+                                
+                            </a>
+                            <!-- Work on adding icon -->
+                        </div>
+                    </li>
+                
+            
+                
+                    <li class="block-page_link">
+                        <div>
+                            <a target="_self" href="/data/get-started-data/workflow-examples/">
+                                Workflow Examples
+                                
+                            </a>
+                            <!-- Work on adding icon -->
+                        </div>
+                    </li>
+                
+            
+                
+                    <li class="block-page_link">
+                        <div>
+                            <a target="_self" href="/product_search/">
+                                Search Data Catalog
+                                
+                            </a>
+                            <!-- Work on adding icon -->
+                        </div>
+                    </li>
+                
+            
+                
+                    <li class="block-page_link">
+                        <div>
+                            <a target="_self" href="/data/data-citation-and-policies/">
+                                Data Citation and Policies
+                                
+                            </a>
+                            <!-- Work on adding icon -->
+                        </div>
+                    </li>
+                
+            
+        </ul>
+    </li>
+
+    <li class="top-nav-link top-nav-link-dropdown">
+        <a class="nav-heading" href="#">Tools</a>
+        <ul>
+            
+                
+                    <li class="block-page_link">
+                        <div>
+                            <a target="_self" href="/tools/appeears/">
+                                AppEEARS
+                                
+                            </a>
+                            <!-- Work on adding icon -->
+                        </div>
+                    </li>
+                
+            
+                
+                    <li class="block-page_link">
+                        <div>
+                            <a target="_self" href="/tools/data-pool/">
+                                Data Pool
+                                
+                            </a>
+                            <!-- Work on adding icon -->
+                        </div>
+                    </li>
+                
+            
+                
+                    <li class="block-page_link">
+                        <div>
+                            <a target="_self" href="/tools/daac2diskscripts/">
+                                DAAC2Disk Utility
+                                
+                            </a>
+                            <!-- Work on adding icon -->
+                        </div>
+                    </li>
+                
+            
+                
+                    <li class="block-page_link">
+                        <div>
+                            <a target="_self" href="/tools/earthdata-search/">
+                                NASA Earthdata Search
+                                
+                            </a>
+                            <!-- Work on adding icon -->
+                        </div>
+                    </li>
+                
+            
+                
+                    <li class="block-page_link">
+                        <div>
+                            <a target="_self" href="/tools/usgs-earthexplorer/">
+                                USGS EarthExplorer
+                                
+                            </a>
+                            <!-- Work on adding icon -->
+                        </div>
+                    </li>
+                
+            
+                
+                    <li class="block-page_link">
+                        <div>
+                            <a target="_self" href="/tools/">
+                                View All Tools
+                                
+                            </a>
+                            <!-- Work on adding icon -->
+                        </div>
+                    </li>
+                
+            
+        </ul>
+    </li>
+
+    <li class="top-nav-link top-nav-link-dropdown">
+        <a class="nav-heading" href="#">Resources</a>
+        <ul>
+            
+                
+                    <li class="block-page_link">
+                        <div>
+                            <a target="_self" href="/resources/e-learning/">
+                                E-Learning
+                                
+                            </a>
+                            <!-- Work on adding icon -->
+                        </div>
+                    </li>
+                
+            
+                
+                    <li class="block-page_link">
+                        <div>
+                            <a target="_self" href="/resources/faqs/">
+                                FAQs
+                                
+                            </a>
+                            <!-- Work on adding icon -->
+                        </div>
+                    </li>
+                
+            
+                
+                    <li class="block-page_link">
+                        <div>
+                            <a target="_self" href="/resources/data-action/">
+                                Data in Action
+                                
+                            </a>
+                            <!-- Work on adding icon -->
+                        </div>
+                    </li>
+                
+            
+                
+                    <li class="block-page_link">
+                        <div>
+                            <a target="_self" href="/resources/outreach-materials/">
+                                Outreach Materials
+                                
+                            </a>
+                            <!-- Work on adding icon -->
+                        </div>
+                    </li>
+                
+            
+                
+                    <li class="block-page_link">
+                        <div>
+                            <a target="_self" href="/resources/">
+                                View All Resources
+                                
+                            </a>
+                            <!-- Work on adding icon -->
+                        </div>
+                    </li>
+                
+            
+        </ul>
+    </li>
+
+    <li class="top-nav-link top-nav-link-dropdown">
+        <a class="nav-heading" href="#">Contact</a>
+        <ul>
+            
+                
+                    <li class="block-page_link">
+                        <div>
+                            <a target="_self" href="/lpdaac-contact-us/">
+                                Contact LP DAAC
+                                
+                            </a>
+                            <!-- Work on adding icon -->
+                        </div>
+                    </li>
+                
+            
+                
+                    <li class="block-page_link">
+                        <div>
+                            <a target="_self" href="/submitdata/">
+                                Submit Data
+                                
+                            </a>
+                            <!-- Work on adding icon -->
+                        </div>
+                    </li>
+                
+            
+                
+                    <li class="block-page_link">
+                        <div>
+                            <a target="_blank" href="https://forum.earthdata.nasa.gov/">
+                                Earthdata Forum
+                                
+                                    
+                                        <i class="fa fa-external-link-square"></i>
+                                    
+                                
+                            </a>
+                            <!-- Work on adding icon -->
+                        </div>
+                    </li>
+                
+            
+        </ul>
+    </li>
+
+
+                </ul>
+                <div class="text-center margin-top-1rem">
+                    <a href="https://worlddatasystem.org/"><img alt="WDS Logo" src="/static/WDSLogo.png"/></a>
+                    <a href="http://www.coretrustseal.org/"><img alt="Core Trust Seal Logo" style="max-width:72px;" src="/static/Coretrustseal-removebg.png"/></a>
+                </div>
+                <div class="text-center">
+                    <ul class="list-inline list-divide margin-top-1rem">
+                        <li><a href="https://www.doi.gov/privacy" target="_blank">DOI Privacy Policy</a></li>
+                        <li><a href="http://www.usgs.gov/laws/policies_notices.html" target="_blank">Legal</a></li>
+                        <li><a href="https://www.usgs.gov/laws/accessibility.html" target="_blank">Accessibility</a></li>
+                        <li><a href="https://answers.usgs.gov/" target="_blank">Contact USGS</a></li>
+                    </ul>
+                    <ul class="list-inline list-divide margin-top-1rem">
+                        <li><a href="https://www.doi.gov/" target="_blank">U.S. Department of the Interior</a></li>
+                        <li><a href="https://www.doioig.gov/" target="_blank">DOI Inspector General</a></li>
+                        <li><a href="https://www.whitehouse.gov/" target="_blank">White House</a></li>
+                        <li><a href="https://www.whitehouse.gov/omb/management/egov/" target="_blank">E-Gov</a></li>
+                        <li><a href="https://www.doi.gov/pmb/eeo/no-fear-act" target="_blank">No Fear Act</a></li>
+                        <li><a href="https://www.usgs.gov/foia" target="_blank">FOIA</a></li>
+                    </ul>
+                </div>
+            </div>
+        </footer>
+        <div class="footer-bar">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 col-md-6 social-media">
+                        <div class="btn-group">
+                            <a href="https://www.facebook.com/NASAEarthData" class="btn"><i class="fa fa-facebook"></i></a>
+                            <a href="https://twitter.com/NASAEarthData" class="btn"><i class="fa-brands fa-x-twitter"></i></a>
+                            <a href="https://www.youtube.com/channel/UCrZ-Cgk3DfiLPfHEReLzCfg" class="btn"><i class="fa fa-youtube-play"></i></a>
+                            <a href="https://forum.earthdata.nasa.gov/" class="btn"><i class="fa fa-desktop"></i></a>
+                            <a href="/news_feed/" class="btn"><i class="fa fa-rss"></i></a>
+                        </div>
+                    </div>
+                    <div class="col-sm-12 col-md-6 contact-info">
+                        <address>
+                            <strong>47914 252nd Street</strong> |  
+                            Sioux Falls, SD 57198-0001<br>
+                            Voice: <a href="tel:6055946116">605-594-6116</a> | 
+                            Toll Free: <a href="tel:8665733222">866-573-3222</a> |
+                            Fax: 605-594-6963<br/>
+                            <a href="mailto:lpdaac@usgs.gov">lpdaac@usgs.gov</a>
+                        </address>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <script src="/static/CACHE/js/output.ac234f63c84f.js"></script>
+
+        
+        
+    </body>
+</html>
