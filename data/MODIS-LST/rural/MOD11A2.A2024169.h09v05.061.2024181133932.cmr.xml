@@ -1,0 +1,167 @@
+<?xml version='1.0'?>
+<Granule>
+    <GranuleUR>MOD11A2.A2024169.h09v05.061.2024181133932</GranuleUR>
+    <InsertTime>2024-06-29T09:24:26.124Z</InsertTime>
+    <LastUpdate>2024-06-29T09:25:02.007Z</LastUpdate>
+    <Collection>
+        <ShortName>MOD11A2</ShortName>
+        <VersionId>061</VersionId>
+    </Collection>
+    <DataGranule>
+        <SizeMBDataGranule>7.72168159484863</SizeMBDataGranule>
+        <ReprocessingPlanned>further update is anticipated</ReprocessingPlanned>
+        <ReprocessingActual>processed once</ReprocessingActual>
+        <ProducerGranuleId>MOD11A2.A2024169.h09v05.061.2024181133932</ProducerGranuleId>
+        <DayNightFlag>BOTH</DayNightFlag>
+        <ProductionDateTime>2024-06-29T13:39:32Z</ProductionDateTime>
+        <LocalVersionId>6.3.0</LocalVersionId>
+        <AdditionalFile>
+            <Name>BROWSE.MOD11A2.A2024169.h09v05.061.2024181093934.1.jpg</Name>
+            <SizeInBytes>21320</SizeInBytes>
+            <Checksum>
+                <Value>1b0c04a45326382c0c0ae2505f250b7c5e56259764bd82451606a609b6295342</Value>
+                <Algorithm>SHA256</Algorithm>
+            </Checksum>
+        </AdditionalFile>
+        <AdditionalFile>
+            <Name>BROWSE.MOD11A2.A2024169.h09v05.061.2024181093934.2.jpg</Name>
+            <SizeInBytes>11633</SizeInBytes>
+            <Checksum>
+                <Value>57c3234f77234accb1ef2f633c1871d2d52e71e7c2d34416a2da3e8650c1d75e</Value>
+                <Algorithm>SHA256</Algorithm>
+            </Checksum>
+        </AdditionalFile>
+        <AdditionalFile>
+            <Name>MOD11A2.A2024169.h09v05.061.2024181133932.hdf</Name>
+            <SizeInBytes>8096770</SizeInBytes>
+            <Checksum>
+                <Value>45619d3254badc798f06289cf25c5333a920b74f433f6bf590aba1be810022b8</Value>
+                <Algorithm>SHA256</Algorithm>
+            </Checksum>
+        </AdditionalFile>
+    </DataGranule>
+    <PGEVersionClass>
+        <PGEVersion>6.4.4</PGEVersion>
+    </PGEVersionClass>
+    <Temporal>
+        <RangeDateTime>
+            <BeginningDateTime>2024-06-17T00:00:00.000000Z</BeginningDateTime>
+            <EndingDateTime>2024-06-24T23:59:59.000000Z</EndingDateTime>
+        </RangeDateTime>
+    </Temporal>
+    <Spatial>
+        <HorizontalSpatialDomain>
+            <Geometry>
+                <GPolygon>
+                    <Boundary>
+                        <Point>
+                            <PointLongitude>-117.4867</PointLongitude>
+                            <PointLatitude>40</PointLatitude>
+                        </Point>
+                        <Point>
+                            <PointLongitude>-104.2567</PointLongitude>
+                            <PointLatitude>40.0742</PointLatitude>
+                        </Point>
+                        <Point>
+                            <PointLongitude>-92.1319</PointLongitude>
+                            <PointLatitude>29.901</PointLatitude>
+                        </Point>
+                        <Point>
+                            <PointLongitude>-103.8359</PointLongitude>
+                            <PointLatitude>29.8361</PointLatitude>
+                        </Point>
+                    </Boundary>
+                </GPolygon>
+            </Geometry>
+        </HorizontalSpatialDomain>
+    </Spatial>
+    <Campaigns>
+        <Campaign>
+            <ShortName>TERRA</ShortName>
+        </Campaign>
+    </Campaigns>
+    <AdditionalAttributes>
+        <AdditionalAttribute>
+            <Name>TileID</Name>
+            <Values>
+                <Value>51009005</Value>
+            </Values>
+        </AdditionalAttribute>
+        <AdditionalAttribute>
+            <Name>HORIZONTALTILENUMBER</Name>
+            <Values>
+                <Value>09</Value>
+            </Values>
+        </AdditionalAttribute>
+        <AdditionalAttribute>
+            <Name>VERTICALTILENUMBER</Name>
+            <Values>
+                <Value>05</Value>
+            </Values>
+        </AdditionalAttribute>
+        <AdditionalAttribute>
+            <Name>identifier_product_doi</Name>
+            <Values>
+                <Value>10.5067/MODIS/MOD11A2.061</Value>
+            </Values>
+        </AdditionalAttribute>
+        <AdditionalAttribute>
+            <Name>identifier_product_doi_authority</Name>
+            <Values>
+                <Value>http://dx.doi.org</Value>
+            </Values>
+        </AdditionalAttribute>
+    </AdditionalAttributes>
+    <OnlineAccessURLs>
+        <OnlineAccessURL>
+            <URL>https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/MOD11A2.061/MOD11A2.A2024169.h09v05.061.2024181133932/MOD11A2.A2024169.h09v05.061.2024181133932.hdf</URL>
+            <URLDescription>Download MOD11A2.A2024169.h09v05.061.2024181133932.hdf</URLDescription>
+        </OnlineAccessURL>
+        <OnlineAccessURL>
+            <URL>s3://lp-prod-protected/MOD11A2.061/MOD11A2.A2024169.h09v05.061.2024181133932/MOD11A2.A2024169.h09v05.061.2024181133932.hdf</URL>
+            <URLDescription>This link provides direct download access via S3 to the granule</URLDescription>
+        </OnlineAccessURL>
+    </OnlineAccessURLs>
+    <OnlineResources>
+        <OnlineResource>
+            <URL>https://doi.org/10.5067/MODIS/MOD11A2.061</URL>
+            <Description>The Landing Page for this file may be accessed directly from this link</Description>
+            <Type>DOI</Type>
+            <MimeType>text/html</MimeType>
+        </OnlineResource>
+        <OnlineResource>
+            <URL>https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/MOD11A2.061/MOD11A2.A2024169.h09v05.061.2024181133932/MOD11A2.A2024169.h09v05.061.2024181133932.cmr.xml</URL>
+            <Description>Download MOD11A2.A2024169.h09v05.061.2024181133932.cmr.xml</Description>
+            <Type>EXTENDED METADATA</Type>
+        </OnlineResource>
+        <OnlineResource>
+            <URL>s3://lp-prod-protected/MOD11A2.061/MOD11A2.A2024169.h09v05.061.2024181133932/MOD11A2.A2024169.h09v05.061.2024181133932.cmr.xml</URL>
+            <Description>This link provides direct download access via S3 to the granule</Description>
+            <Type>EXTENDED METADATA</Type>
+        </OnlineResource>
+        <OnlineResource>
+            <URL>https://data.lpdaac.earthdatacloud.nasa.gov/s3credentials</URL>
+            <Description>api endpoint to retrieve temporary credentials valid for same-region direct s3 access</Description>
+            <Type>VIEW RELATED INFORMATION</Type>
+        </OnlineResource>
+    </OnlineResources>
+    <DataFormat>HDF-EOS2</DataFormat>
+    <AssociatedBrowseImageUrls>
+        <ProviderBrowseUrl>
+            <URL>https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-public/MOD11A2.061/MOD11A2.A2024169.h09v05.061.2024181133932/BROWSE.MOD11A2.A2024169.h09v05.061.2024181093934.1.jpg</URL>
+            <Description>Download BROWSE.MOD11A2.A2024169.h09v05.061.2024181093934.1.jpg</Description>
+        </ProviderBrowseUrl>
+        <ProviderBrowseUrl>
+            <URL>s3://lp-prod-public/MOD11A2.061/MOD11A2.A2024169.h09v05.061.2024181133932/BROWSE.MOD11A2.A2024169.h09v05.061.2024181093934.1.jpg</URL>
+            <Description>This link provides direct download access via S3 to the granule</Description>
+        </ProviderBrowseUrl>
+        <ProviderBrowseUrl>
+            <URL>https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-public/MOD11A2.061/MOD11A2.A2024169.h09v05.061.2024181133932/BROWSE.MOD11A2.A2024169.h09v05.061.2024181093934.2.jpg</URL>
+            <Description>Download BROWSE.MOD11A2.A2024169.h09v05.061.2024181093934.2.jpg</Description>
+        </ProviderBrowseUrl>
+        <ProviderBrowseUrl>
+            <URL>s3://lp-prod-public/MOD11A2.061/MOD11A2.A2024169.h09v05.061.2024181133932/BROWSE.MOD11A2.A2024169.h09v05.061.2024181093934.2.jpg</URL>
+            <Description>This link provides direct download access via S3 to the granule</Description>
+        </ProviderBrowseUrl>
+    </AssociatedBrowseImageUrls>
+</Granule>

@@ -44,7 +44,7 @@
                     var dataLayer = window.dataLayer = window.dataLayer || [];
                     dataLayer.push({
                         'event': 'ipAddress',
-                        'ipAddress': '152.61.129.161' //i.e.: 'ipAddress': '50.226.226.146'
+                        'ipAddress': '152.61.129.162' //i.e.: 'ipAddress': '50.226.226.146'
                     });
                 </script>
             
