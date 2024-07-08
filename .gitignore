@@ -160,3 +160,5 @@ cython_debug/
 #.idea/
 earthdatacreds.json
 earthdata_creds.json
+/data/MODIS-LST/Atlanta_GA
+/data/110m_physical
